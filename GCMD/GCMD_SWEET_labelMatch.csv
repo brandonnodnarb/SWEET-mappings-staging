@@ -1,0 +1,1247 @@
+GCMD UID	GCMD term	Similarity	SWEET term	SWEET IRI
+08fd82a1-4370-46a2-82ea-94c0f91498a7	atmospheric pressure	1.00	atmospheric pressure	http://sweetontology.net/proppressure/atmosphericpressure
+05cf5b56-0f86-4819-b713-1272b97b06c5	wind shear	1.00	wind shear	http://sweetontology.net/propspeed/windshear
+061f7fd0-67af-42bf-bc9f-5a007c146f65	absorption	1.00	absorption	http://sweetontology.net/procchemical/absorption
+061f7fd0-67af-42bf-bc9f-5a007c146f65	absorption	1.00	absorption	http://sweetontology.net/procwave/absorption
+07ce145c-9936-4675-b4a7-8710e39aa391	sea level pressure	1.00	sea level pressure	http://sweetontology.net/proppressure/sealevelpressure
+0c28d9e4-c848-4628-9c00-45a540707b59	dew point temperature	1.00	dew point temperature	http://sweetontology.net/proptemperature/dewpointtemperature
+107582ef-a356-4afa-a9a4-4e1d2200c134	radiative flux	1.00	radiative flux	http://sweetontology.net/propenergyflux/radiativeflux
+15029eb0-6342-4066-8ac9-c50f7dbfb392	water vapor	1.00	water vapor	http://sweetontology.net/matrwater/watervapor
+226d05da-dd0b-4314-919a-0b259ce724b5	turbulence	1.00	turbulence	http://sweetontology.net/phenfluidinstability/turbulence
+26fc4850-7ba9-44d8-a156-5c623e17b72f	evapotranspiration	1.00	evapotranspiration	http://sweetontology.net/propspacethickness/evapotranspiration
+31a14270-6275-4155-961f-b78b60ee05f7	anisotropy	1.00	anisotropy	http://sweetontology.net/statespaceconfiguration/anisotropy
+3afb06fa-96b7-4bf4-a6b7-b5fa626afc04	virtual temperature	1.00	virtual temperature	http://sweetontology.net/proptemperature/virtualtemperature
+41f27172-14f6-4940-9b7b-f3d4db69e0c6	electric field	1.00	electric field	http://sweetontology.net/phenelecmag/electricfield
+427e5121-a142-41cb-a8e9-a70b7f98eb6a	humidity	1.00	humidity	http://sweetontology.net/propfraction/humidity
+46a3c823-727d-4c3c-b09d-e3e3fcaa43a5	heat flux	1.00	heat flux	http://sweetontology.net/propenergyflux/heatflux
+48c16952-b6e0-40cd-b6dd-7cdbf5a443a1	albedo	1.00	albedo	http://sweetontology.net/propfraction/albedo
+49c8770a-2eb7-40f1-aab0-9c12d3aed031	emissivity	1.00	emissivity	http://sweetontology.net/propfraction/emissivity
+49fd6f11-5682-4d27-8fc6-66bf3faadf39	heat flux	1.00	heat flux	http://sweetontology.net/propenergyflux/heatflux
+4fad64ce-32fe-413d-8b55-c78000d1980c	radiative forcing	1.00	radiative forcing	http://sweetontology.net/propenergyflux/radiativeforcing
+5bac3ef6-5e30-4f14-a5dc-8065c7fcba55	radiational cooling	1.00	radiational cooling	http://sweetontology.net/phen/radiationalcooling
+5c58acfc-04ed-4cbf-8674-13c41b3e950d	divergence	1.00	divergence	http://sweetontology.net/proptimefrequency/divergence
+5d7e487d-0ec4-40ef-9811-401779c31794	differential pressure	1.00	differential pressure	http://sweetontology.net/proppressure/differentialpressure
+622c44b4-e307-4c11-af4d-8104de7086e5	static pressure	1.00	static pressure	http://sweetontology.net/proppressure/staticpressure
+637ac172-e624-4ae0-aac4-0d1adcc889a2	lightning	1.00	lightning	http://sweetontology.net/phenatmolightning/lightning
+6433e330-3797-4cf9-a8ba-d26d39624459	photochemistry	1.00	photochemistry	http://sweetontology.net/humanknowledgedomain/photochemistry
+661591b3-6685-4de7-a2a4-9ce8ae505044	wind speed	1.00	wind speed	http://sweetontology.net/propspeed/windspeed
+714be1d7-2012-4a98-bdd5-02bbcadf69d8	transmittance	1.00	transmittance	http://sweetontology.net/propfraction/transmittance
+731beb11-9418-40ec-8f2c-c4b320e8231a	dew point temperature	1.00	dew point temperature	http://sweetontology.net/proptemperature/dewpointtemperature
+76103e17-59c2-4458-972d-9ff9801e5d32	dew point temperature	1.00	dew point temperature	http://sweetontology.net/proptemperature/dewpointtemperature
+7a0bd777-be0d-43c8-80eb-5ac58f4832de	potential temperature	1.00	potential temperature	http://sweetontology.net/proptemperature/potentialtemperature
+7e6f7c15-32e7-4b6e-bd35-7bff4bc03caf	gravity wave	1.00	gravity wave	http://sweetontology.net/phenwave/gravitywave
+84780569-bef5-41fd-901f-828418e390dd	orographic lifting	1.00	orographic lifting	http://sweetontology.net/phenatmo/orographiclifting
+858a80ff-5aa4-4590-b2e2-e88a802a6ee4	vorticity	1.00	vorticity	http://sweetontology.net/proprotation/vorticity
+86c95fdb-17b9-4224-a020-b1aacbea00fd	sunshine	1.00	sunshine	http://sweetontology.net/statevisibility/sunshine
+a0f3474e-9a54-4a82-97c4-43864b48df4c	solar radiation	1.00	solar radiation	http://sweetontology.net/propenergyflux/solarradiation
+a1588b7d-7307-4543-9908-76d7877c4010	static temperature	1.00	static temperature	http://sweetontology.net/proptemperature/statictemperature
+a2cc8e02-3207-4c40-af41-9656404bac0a	convergence	1.00	convergence	http://sweetontology.net/proptimefrequency/convergence
+a5aa7055-642d-4442-9b4b-76a759e15257	hydrostatic pressure	1.00	hydrostatic pressure	http://sweetontology.net/proppressure/hydrostaticpressure
+a92f49f3-e2ee-4ef4-b064-39311ffb95d3	wind speed	1.00	wind speed	http://sweetontology.net/propspeed/windspeed
+b68ab978-6db6-49ee-84e2-5f37b461a998	evaporation	1.00	evaporation	http://sweetontology.net/procstatechange/evaporation
+bdfd401f-7eed-4a48-bd6f-f0c2a890594a	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+be027470-35ab-4ebb-a213-5f557cca71c8	pressure thickness	1.00	pressure thickness	http://sweetontology.net/propspacethickness/pressurethickness
+bf22e55d-fbff-4eaf-8592-68be24e2bc32	airglow	1.00	airglow	http://sweetontology.net/phenatmosky/airglow
+bf22e55d-fbff-4eaf-8592-68be24e2bc32	airglow	1.00	airglow	http://sweetontology.net/phenhelio/airglow
+cac28264-0788-49a9-bb6a-c2251b0b325c	total electron content	1.00	total electron content	http://sweetontology.net/propcount/totalelectroncontent
+ce546f0d-d2e1-43ed-b8e0-a9079c690c56	advection	1.00	advection	http://sweetontology.net/phenfluidtransport/advection
+d438f0a2-5a88-4d56-8bec-7c5e35249544	sublimation	1.00	sublimation	http://sweetontology.net/procstatechange/sublimation
+d7fbbafe-fc73-4b63-9837-3d53d2370d9d	condensation	1.00	condensation	http://sweetontology.net/procstatechange/condensation
+ebbf8642-3da1-4401-a779-3e56550a029d	cloud condensation nuclei	1.00	cloud condensation nuclei	http://sweetontology.net/matraerosol/cloudcondensationnuclei
+ebce0874-7635-4094-8ef4-968851873771	convection	1.00	convection	http://sweetontology.net/phenfluidtransport/convection
+ec9e0b6a-1315-4569-93bc-0f1190bb8c08	scattering	1.00	scattering	http://sweetontology.net/procwave/scattering
+fa98caa0-54dc-465e-9bde-cdf4da905994	pressure tendency	1.00	pressure tendency	http://sweetontology.net/proppressure/pressuretendency
+fd19a3f1-8eeb-49ab-bcaf-e7b4b267d415	virtual temperature	1.00	virtual temperature	http://sweetontology.net/proptemperature/virtualtemperature
+ecf29317-bd5e-447b-b911-f8bfb153c83b	calibration	1.00	calibration	http://sweetontology.net/reprdataservicevalidation/calibration
+b283a59c-0e9a-469c-baf4-591b64cd4671	validation	1.00	validation	http://sweetontology.net/humanresearch/validation
+b283a59c-0e9a-469c-baf4-591b64cd4671	validation	1.00	validation	http://sweetontology.net/reprdataservicevalidation/validation
+c75db4f8-716c-47a8-a2f4-34e5a48296b0	archiving	1.00	archiving	http://sweetontology.net/reprdataproduct/archiving
+e8e3ba6c-599e-4d7d-b498-93b15c32d820	interpolation	1.00	interpolation	http://sweetontology.net/reprdataserviceanalysis/interpolation
+07291e32-fd39-45e8-a603-7443cb780976	data mining	1.00	data mining	http://sweetontology.net/reprdataservicereduction/datamining
+8f9d66e9-f65d-41c6-9640-90bd3e155bf8	geomagnetism	1.00	geomagnetism	http://sweetontology.net/phenhelio/geomagnetism
+f342683b-94ee-4ef6-8915-b18a473fafbd	volcanic activity	1.00	volcanic activity	http://sweetontology.net/phengeolvolcano/volcanicactivity
+3678d18c-9dca-4743-abc0-1442b4d438d2	drought	1.00	drought	http://sweetontology.net/phenplanetclimate/drought
+9a583e74-34e9-4eb5-af7a-03418d702af6	water quality	1.00	water quality	http://sweetontology.net/phenenvirimpact/waterquality
+a4aea007-d297-4051-8b41-5cdde00b4d1e	sea ice	1.00	sea ice	http://sweetontology.net/realmcryo/seaice
+f04be06d-5976-43d0-94cb-91d5c487d57c	sea state	1.00	sea state	http://sweetontology.net/propspaceheight/seastate
+b40d8d03-6286-48cd-818c-20d1680d6453	coronal mass ejection	1.00	coronal mass ejection	http://sweetontology.net/phenstar/coronalmassejection
+ed49aea3-c1ce-4522-985b-1b1b2b2c7790	geomagnetic storm	1.00	geomagnetic storm	http://sweetontology.net/phenhelio/geomagneticstorm
+49c8e881-7100-42cf-9c2e-48f2012e5671	air quality	1.00	air quality	http://sweetontology.net/phenatmosky/airquality
+49c8e881-7100-42cf-9c2e-48f2012e5671	air quality	1.00	air quality	http://sweetontology.net/phenenvirimpact/airquality
+0451cbfb-3c46-4afe-b02d-456beabd89a6	weather forecast	1.00	weather forecast	http://sweetontology.net/reprscimodel/weatherforecast
+ac44c9c0-d0f1-4f25-b016-b57ca51d511e	gazetteer	1.00	gazetteer	http://sweetontology.net/reprdataservicegeospatial/gazetteer
+8916dafb-5ad5-45c6-ab64-3500ea1e9577	aquaculture	1.00	aquaculture	http://sweetontology.net/humanagriculture/aquaculture
+a756fd6b-6208-4af0-ac56-6ee914fc4597	irrigation	1.00	irrigation	http://sweetontology.net/humanagriculture/irrigation
+2c31fc22-747a-476f-b76d-fec61220b5b1	apiculture	1.00	apiculture	http://sweetontology.net/humanagriculture/apiculture
+06053150-d796-477b-b305-292442d658ed	sericulture	1.00	sericulture	http://sweetontology.net/humanagriculture/sericulture
+be7f6de0-f51e-42bc-9a66-fff30d809a67	reforestation	1.00	reforestation	http://sweetontology.net/humanenvircontrol/reforestation
+7367c08c-304f-4ce7-b716-975f835ba711	calcium	1.00	calcium	http://sweetontology.net/matrelement/calcium
+9315c474-b65f-400d-beba-611c9a6a62cb	carbon	1.00	carbon	http://sweetontology.net/matrelement/carbon
+5c05e69f-f6db-4296-abd3-3b07e6093579	cation exchange capacity	1.00	cation exchange capacity	http://sweetontology.net/propcharge/cationexchangecapacity
+7241d799-4f5c-4ae3-a4ec-2e9cdbf656aa	electrical conductivity	1.00	electrical conductivity	http://sweetontology.net/propconductivity/electricalconductivity
+7112e739-cb5d-427e-95bd-5419360e91d8	hydraulic conductivity	1.00	hydraulic conductivity	http://sweetontology.net/propconductivity/hydraulicconductivity
+60992683-3183-4510-9fce-e4611115315c	iron	1.00	iron	http://sweetontology.net/matrelement/iron
+79f18259-bd76-4c7b-bd18-cbd2edafd24f	magnesium	1.00	magnesium	http://sweetontology.net/matrelement/magnesium
+5ed7811a-2ba1-4985-9f1c-a78c802fa27f	nitrogen	1.00	nitrogen	http://sweetontology.net/matrelement/nitrogen
+83cf51f6-8c03-4f6d-b605-fde9818c7805	organic matter	1.00	organic matter	http://sweetontology.net/realmsoil/organicmatter
+fb3ce3be-d830-407f-bd7c-58d66c24b6be	permafrost	1.00	permafrost	http://sweetontology.net/realmsoil/permafrost
+4962dabc-b426-4c84-8147-12e15645baff	phosphorus	1.00	phosphorus	http://sweetontology.net/matrelement/phosphorus
+c07fe67b-234e-4293-9f09-abaf9612c0e9	potassium	1.00	potassium	http://sweetontology.net/matrelement/potassium
+e3d3f76d-0ffe-4616-9988-0520e78cf842	sulfur	1.00	sulfur	http://sweetontology.net/matrelement/sulfur
+5c349776-dd95-483e-a5da-e8d1b1434985	thermal conductivity	1.00	thermal conductivity	http://sweetontology.net/propconductivity/thermalconductivity
+a956d045-3b12-441c-8a18-fac7d33b2b4e	agriculture	1.00	agriculture	http://sweetontology.net/humanagriculture/agriculture
+6e7306a1-79a5-482e-b646-74b75a1eaa48	angstrom exponent	1.00	angstrom exponent	http://sweetontology.net/propdimensionlessratio/angstromexponent
+27478148-b4b6-4c89-8829-08d2ee7bfe10	cloud condensation nuclei	1.00	cloud condensation nuclei	http://sweetontology.net/matraerosol/cloudcondensationnuclei
+080389c4-68d4-41ee-ab89-070794038c8e	carbon monoxide	1.00	carbon monoxide	http://sweetontology.net/matrcompound/carbonmonoxide
+c79453a3-ed2f-4ec4-9298-bf9fd11d08eb	lead	1.00	lead	http://sweetontology.net/matrelement/lead
+c79453a3-ed2f-4ec4-9298-bf9fd11d08eb	lead	1.00	lead	http://sweetontology.net/realmcryo/lead
+bad08657-da2b-4e2b-9804-25c5732bc795	smog	1.00	smog	http://sweetontology.net/phenatmofog/smog
+227cf2d4-968a-4312-89e6-8c6bcf616e5d	turbidity	1.00	turbidity	http://sweetontology.net/propindex/turbidity
+9337898d-68dc-43d7-93a9-6afdb4ab1784	visibility	1.00	visibility	http://sweetontology.net/propordinal/visibility
+9337898d-68dc-43d7-93a9-6afdb4ab1784	visibility	1.00	visibility	http://sweetontology.net/propspacedistance/visibility
+77397026-09c9-44e0-b85f-77b2bc9b1630	air quality	1.00	air quality	http://sweetontology.net/phenatmosky/airquality
+77397026-09c9-44e0-b85f-77b2bc9b1630	air quality	1.00	air quality	http://sweetontology.net/phenenvirimpact/airquality
+5d703cfe-2f7c-4736-acbc-ec4e4f4f8eef	barometric altitude	1.00	barometric altitude	http://sweetontology.net/propspaceheight/barometricaltitude
+d6aec072-daf9-4f96-b667-6c7831cf6bdd	geopotential height	1.00	geopotential height	http://sweetontology.net/propspaceheight/geopotentialheight
+dacbf270-1734-4503-bab8-a32cdaff3012	mesopause	1.00	mesopause	http://sweetontology.net/realmatmo/mesopause
+82191e97-53ba-413d-9a08-acd8b848e0b0	stratopause	1.00	stratopause	http://sweetontology.net/realmatmo/stratopause
+c3447c90-7490-4f04-89c1-c5274ba8f8f6	tropopause	1.00	tropopause	http://sweetontology.net/realmatmo/tropopause
+16bfcf54-f8e1-4c8e-9bd4-a1ac06ea95a0	altitude	1.00	altitude	http://sweetontology.net/propspaceheight/altitude
+c3b81888-8a39-4b3f-8033-4c077797bcba	carbon dioxide	1.00	carbon dioxide	http://sweetontology.net/matrcompound/carbondioxide
+88a1b416-1589-45a4-9923-452975ec35c7	carbon monoxide	1.00	carbon monoxide	http://sweetontology.net/matrcompound/carbonmonoxide
+bc05d7d2-3c96-4bb6-b759-d45e3c673b86	formaldehyde	1.00	formaldehyde	http://sweetontology.net/matrorganiccompound/formaldehyde
+af157837-bdbd-4a9a-b24e-6a79adfef57f	hydrogen cyanide	1.00	hydrogen cyanide	http://sweetontology.net/matrorganiccompound/hydrogencyanide
+c6b2279c-804f-42bf-aa8a-0c81f9ecf6cd	hypochlorous monoxide	1.00	hypochlorous monoxide	http://sweetontology.net/matrcompound/hypochlorousmonoxide
+7c892333-f4c4-4f81-b825-d6a86e107e9f	methane	1.00	methane	http://sweetontology.net/matrorganiccompound/methane
+35721fc2-a968-487f-ad85-6307a18e4af6	methyl cyanide	1.00	methyl cyanide	http://sweetontology.net/matrorganiccompound/methylcyanide
+39c478bd-620e-455c-904d-4621965e376c	bromine monoxide	1.00	bromine monoxide	http://sweetontology.net/matrcompound/brominemonoxide
+a56d397b-bff5-4a14-b54c-366470e023c7	chlorine dioxide	1.00	chlorine dioxide	http://sweetontology.net/matrcompound/chlorinedioxide
+6f96d1bd-f6ba-437a-9079-c575c4822248	chlorine monoxide	1.00	chlorine monoxide	http://sweetontology.net/matrcompound/chlorinemonoxide
+a9104127-6846-4123-8ab0-b65c61a0018d	chlorine nitrate	1.00	chlorine nitrate	http://sweetontology.net/matrcompound/chlorinenitrate
+146a0a0b-1b42-41a6-b1f7-a27615b006a0	hydrogen chloride	1.00	hydrogen chloride	http://sweetontology.net/matrcompound/hydrogenchloride
+ff9f8056-84d6-4fbc-abe0-9b6e82ed3f5e	hydrogen fluoride	1.00	hydrogen fluoride	http://sweetontology.net/matrcompound/hydrogenfluoride
+27d63fe6-9970-46fd-9b22-a58e52efc57b	hypochlorous acid	1.00	hypochlorous acid	http://sweetontology.net/matrcompound/hypochlorousacid
+9b6ca807-7719-48aa-864d-ebb45a519ff8	methyl bromide	1.00	methyl bromide	http://sweetontology.net/matrorganiccompound/methylbromide
+676248f0-75cd-466d-93f1-351440027c82	methyl chloride	1.00	methyl chloride	http://sweetontology.net/matrorganiccompound/methylchloride
+5b49fd6d-3759-4b61-8b04-8309f38b2f90	hydroxyl	1.00	hydroxyl	http://sweetontology.net/matrcompound/hydroxyl
+6a745a5e-829c-43f5-8d5a-6fb549e7b81b	ammonia	1.00	ammonia	http://sweetontology.net/matrcompound/ammonia
+9ca9519d-c62b-42ea-8c91-cad06cfc59cb	dinitrogen pentoxide	1.00	dinitrogen pentoxide	http://sweetontology.net/matrcompound/dinitrogenpentoxide
+b7bbed0f-24a1-44d8-a10d-92541cd2c05b	nitric acid	1.00	nitric acid	http://sweetontology.net/matrcompound/nitricacid
+82a60ed8-5414-4ce0-858c-c50b27b12bc8	nitric oxide	1.00	nitric oxide	http://sweetontology.net/matrcompound/nitricoxide
+f8e65155-27c1-483e-a9b8-85399897c3ae	nitrogen dioxide	1.00	nitrogen dioxide	http://sweetontology.net/matrcompound/nitrogendioxide
+cf08917f-4cef-456f-99b0-57dc468da877	nitrous oxide	1.00	nitrous oxide	http://sweetontology.net/matrcompound/nitrousoxide
+61f4f3d0-7895-4cce-94e3-d249001d5ee8	molecular oxygen	1.00	molecular oxygen	http://sweetontology.net/matrelementalmolecule/molecularoxygen
+dd316647-9043-40c3-9329-f22f9215fefa	ozone	1.00	ozone	http://sweetontology.net/matrelementalmolecule/ozone
+bde65cfd-faec-4656-bc27-22dfe30912b7	carbonyl sulfide	1.00	carbonyl sulfide	http://sweetontology.net/matrcompound/carbonylsulfide
+bde65cfd-faec-4656-bc27-22dfe30912b7	carbonyl sulfide	1.00	carbonyl sulfide	http://sweetontology.net/matrorganiccompound/carbonylsulfide
+5d282de9-162a-4aeb-a48d-4569fbbd5205	dimethyl sulfide	1.00	dimethyl sulfide	http://sweetontology.net/matrorganiccompound/dimethylsulfide
+2ab4134d-1ac7-4421-a7a6-659a542aff4c	sulfate	1.00	sulfate	http://sweetontology.net/matrcompound/sulfate
+f5717312-c3ca-4492-a166-9f17c6d9b273	sulfur dioxide	1.00	sulfur dioxide	http://sweetontology.net/matrcompound/sulfurdioxide
+1d527151-57b2-49ed-9937-c1756a704ce9	common sense climate index	1.00	common sense climate index	http://sweetontology.net/propindex/commonsenseclimateindex
+d50d0685-f42f-4693-9458-eddb9ccf5704	wind chill index	1.00	wind chill index	http://sweetontology.net/proptemperature/windchillindex
+86fb8a31-35f6-4d0e-b4b4-f9cecf961a47	dew point depression	1.00	dew point depression	http://sweetontology.net/proptemperature/dewpointdepression
+17ce714a-bd7e-41a2-ab3d-4865832f1f0a	dry adiabatic lapse rate	1.00	dry adiabatic lapse rate	http://sweetontology.net/proptemperaturegradient/dryadiabaticlapserate
+050771bb-27a3-4e47-bd1b-724d1d73e20c	environmental lapse rate	1.00	environmental lapse rate	http://sweetontology.net/proptemperaturegradient/environmentallapserate
+a249c68f-8249-4285-aad2-020b3c5aefc3	relative humidity	1.00	relative humidity	http://sweetontology.net/propfraction/relativehumidity
+811391d2-4113-4d52-9c88-47d56afda481	specific humidity	1.00	specific humidity	http://sweetontology.net/propfraction/specifichumidity
+6045993e-a656-40c1-853c-9db1fbb49171	potential evapotranspiration	1.00	potential evapotranspiration	http://sweetontology.net/propspacethickness/potentialevapotranspiration
+72edbeca-b608-4f2d-8aba-492c8e6615b8	potential vorticity	1.00	potential vorticity	http://sweetontology.net/proprotation/potentialvorticity
+9e2f502b-a2d5-4bc8-8c8f-489aa0c68177	vorticity advection	1.00	vorticity advection	http://sweetontology.net/phenfluidtransport/vorticityadvection
+ab702934-0959-45fc-a523-81e1aa0c09c8	accretion	1.00	accretion	http://sweetontology.net/phensolid/accretion
+d5d64790-db29-451d-b022-a461dac06228	coalescence	1.00	coalescence	http://sweetontology.net/phensolid/coalescence
+8d66dbbe-886e-449d-bfd2-93fc8d357ccd	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+d2e93932-0231-4b23-af2f-217c6315a95e	absorption	1.00	absorption	http://sweetontology.net/procchemical/absorption
+d2e93932-0231-4b23-af2f-217c6315a95e	absorption	1.00	absorption	http://sweetontology.net/procwave/absorption
+4b12439a-45fc-42fa-ae19-535826f6247b	emission	1.00	emission	http://sweetontology.net/phenreaction/emission
+4b12439a-45fc-42fa-ae19-535826f6247b	emission	1.00	emission	http://sweetontology.net/procwave/emission
+c830ad5e-ac31-41cf-b8e2-277fe457d76d	scattering	1.00	scattering	http://sweetontology.net/procwave/scattering
+7c4d5f8f-4809-4859-b379-3b8c379bc83c	cumulonimbus	1.00	cumulonimbus	http://sweetontology.net/phenatmocloud/cumulonimbus
+e1dff4d5-2e5b-46e7-9804-9de29fdb36d9	cumulus	1.00	cumulus	http://sweetontology.net/phenatmocloud/cumulus
+d13661da-d022-439a-bb27-dc2273f9dc88	mesoscale convective complex	1.00	mesoscale convective complex	http://sweetontology.net/phenatmopressure/mesoscaleconvectivecomplex
+c6024258-d344-4cd2-932b-31e5c81a9c4b	squall line	1.00	squall line	http://sweetontology.net/phenatmoprecipitation/squallline
+bf271f69-3294-44d6-bfa8-a8f54468ca30	cirrostratus	1.00	cirrostratus	http://sweetontology.net/phenatmocloud/cirrostratus
+30c9e32c-7dfe-430f-bd06-4cfa844076e2	advection fog	1.00	advection fog	http://sweetontology.net/phenatmofog/advectionfog
+09a1b23e-bd8b-4bb9-966b-2388328973d4	frontal fog	1.00	frontal fog	http://sweetontology.net/phenatmofog/frontalfog
+cd4f6e31-14b5-468a-a15c-5ac0ce97bf35	ice fog	1.00	ice fog	http://sweetontology.net/phenatmofog/icefog
+99a0a2d2-5d77-4cf2-8fc0-90d12840b12d	radiation fog	1.00	radiation fog	http://sweetontology.net/phenatmofog/radiationfog
+3eefb892-0453-48b6-b619-b8fa3e7bbfc8	upslope fog	1.00	upslope fog	http://sweetontology.net/phenatmofog/upslopefog
+94668478-3b79-4819-847e-b154bf241aa3	fog	1.00	fog	http://sweetontology.net/phenatmofog/fog
+a3d37438-644d-448e-95ea-991d79b3a0f3	nimbostratus	1.00	nimbostratus	http://sweetontology.net/phenatmocloud/nimbostratus
+3375096a-7782-42e8-97d2-0febf63893e0	stratocumulus	1.00	stratocumulus	http://sweetontology.net/phenatmocloud/stratocumulus
+8945d3c7-1c39-4a8b-b954-2a84da8ecc88	stratus	1.00	stratus	http://sweetontology.net/phenatmocloud/stratus
+f58d0203-0070-422c-ab52-6ca8ffbb6362	altostratus	1.00	altostratus	http://sweetontology.net/phenatmocloud/altostratus
+3b024dec-76c2-4995-a9ad-7e2bf4feda72	standardized precipitation index	1.00	standardized precipitation index	http://sweetontology.net/propindex/standardizedprecipitationindex
+0ffab597-284f-4d1a-b026-a78a6604cec5	drizzle	1.00	drizzle	http://sweetontology.net/phenatmoprecipitation/drizzle
+f9405e92-0c1c-4443-9cc4-45d662d8b5f2	acid rain	1.00	acid rain	http://sweetontology.net/phenatmotransport/acidrain
+a90306f0-353c-4083-941a-0973a6fd6584	freezing rain	1.00	freezing rain	http://sweetontology.net/phenatmoprecipitation/freezingrain
+09a57dc7-3911-4a65-9f12-b819652b8671	rain	1.00	rain	http://sweetontology.net/phenatmoprecipitation/rain
+eca0080c-b001-4b6a-b978-f76415e28421	liquid water equivalent	1.00	liquid water equivalent	http://sweetontology.net/propspacethickness/liquidwaterequivalent
+30bd3a01-8cb0-4045-a998-582adbf97df9	snow water equivalent	1.00	snow water equivalent	http://sweetontology.net/propspacethickness/snowwaterequivalent
+7118d286-6629-48e5-931f-052cd347395e	hail	1.00	hail	http://sweetontology.net/phenatmoprecipitation/hail
+5beaf99c-0675-4af3-9236-f55d8d206d85	sleet	1.00	sleet	http://sweetontology.net/phenatmoprecipitation/sleet
+b51b3708-a662-4cf1-bf13-e67f36b001c4	snow	1.00	snow	http://sweetontology.net/matrwater/snow
+1532e590-a62d-46e3-8d03-2351bc48166a	precipitation	1.00	precipitation	http://sweetontology.net/phen/precipitation
+1532e590-a62d-46e3-8d03-2351bc48166a	precipitation	1.00	precipitation	http://sweetontology.net/propspacethickness/precipitation
+a5ad4f63-7483-4f07-86c7-57037e5faf6c	fog	1.00	fog	http://sweetontology.net/phenatmofog/fog
+f24c4f33-5b89-4e8d-8de7-296078a7f18a	lightning	1.00	lightning	http://sweetontology.net/phenatmolightning/lightning
+12b7f57f-c295-4adf-97f5-43356f1270bf	lake effect snow	1.00	lake effect snow	http://sweetontology.net/phenatmoprecipitation/lakeeffectsnow
+2992d7d3-5ae6-4844-b0fa-4ad348e3a8c2	water spout	1.00	water spout	http://sweetontology.net/phenatmoprecipitation/waterspout
+4e845edf-3635-4665-9d9d-d7186c151cda	derecho	1.00	derecho	http://sweetontology.net/phenatmowind/derecho
+530ca9b8-50f3-4bd6-82d4-c49fa688a977	gale	1.00	gale	http://sweetontology.net/statephysical/gale
+9da19ae9-799f-4885-8fb8-564ca803639a	microburst	1.00	microburst	http://sweetontology.net/phenatmowind/microburst
+27275638-546e-4181-b15c-ddc3524de3d5	squall	1.00	squall	http://sweetontology.net/phenatmowindmesoscale/squall
+c47f6052-634e-40ef-a5ac-13f69f6f4c2a	atmosphere	1.00	atmosphere	http://sweetontology.net/realm/atmosphere
+ea855d4c-f132-44f9-b31c-447e1101684d	fish	1.00	fish	http://sweetontology.net/matranimal/fish
+3546cb0a-27a2-4914-85cf-1774b5c4ed19	fungi	1.00	fungi	http://sweetontology.net/matrplant/fungi
+d3594523-ba0d-4275-b121-95039f905058	microalgae	1.00	microalgae	http://sweetontology.net/matrmicrobiota/microalgae
+28dc7895-3365-4bab-9946-3b247f4137b0	phytoplankton	1.00	phytoplankton	http://sweetontology.net/matrmicrobiota/phytoplankton
+a69dd814-e7c0-437f-ba2a-63500f68c9a3	plankton	1.00	plankton	http://sweetontology.net/matrmicrobiota/plankton
+f42c849c-7113-4c69-a01e-52ebc5e7b44d	community structure	1.00	community structure	http://sweetontology.net/phenecology/communitystructure
+d3c5e3e3-97bf-4e74-9f8d-523dce5f9270	indicator species	1.00	indicator species	http://sweetontology.net/matrbiomass/indicatorspecies
+7bfdbe8d-3945-4678-a90b-d2251f973955	invasive species	1.00	invasive species	http://sweetontology.net/phenenvirimpact/invasivespecies
+b98b8823-3e95-4383-bbb0-414ee8832112	species recruitment	1.00	species recruitment	http://sweetontology.net/phenecology/speciesrecruitment
+e58872a8-6104-4ff8-bbca-4b00ba4b38e8	carbon sequestration	1.00	carbon sequestration	http://sweetontology.net/humanenvircontrol/carbonsequestration
+7f8a1613-67b0-4d6a-a9ad-89097c27a052	chemosynthesis	1.00	chemosynthesis	http://sweetontology.net/phenbiol/chemosynthesis
+560eac7e-d172-4a31-a659-a3e99d5f61ac	decomposition	1.00	decomposition	http://sweetontology.net/phenbiol/decomposition
+7a33a978-8ef6-4313-b489-c06cfc6d9cec	nutrient cycling	1.00	nutrient cycling	http://sweetontology.net/phencyclematerial/nutrientcycling
+5fb90409-f9b5-46bc-8a6a-7c42e250c7c3	oxygen demand	1.00	oxygen demand	http://sweetontology.net/propchemical/oxygendemand
+07b53dde-6fea-4662-9d03-ccfd617ca710	photosynthesis	1.00	photosynthesis	http://sweetontology.net/phenbiol/photosynthesis
+ecd03762-df34-49b7-91f2-d8a51acd270e	primary production	1.00	primary production	http://sweetontology.net/phenecology/primaryproduction
+200e9b2d-0201-4f52-9a5e-6dc6c4668ec9	secondary production	1.00	secondary production	http://sweetontology.net/phenecology/secondaryproduction
+bd46a0bf-5c06-48af-a6c9-022417b1fffd	trophic dynamics	1.00	trophic dynamics	http://sweetontology.net/phenecology/trophicdynamics
+8e89d525-161c-4e02-8ef8-4868e0cf8c57	bioavailability	1.00	bioavailability	http://sweetontology.net/propfraction/bioavailability
+5efc3bc4-6403-4e33-ba23-5418fbc026b1	bioluminescence	1.00	bioluminescence	http://sweetontology.net/procchemical/bioluminescence
+f930dcf2-ddb4-4242-9079-9c8d5ceeaa35	endangered species	1.00	endangered species	http://sweetontology.net/phenecology/endangeredspecies
+ddeb06af-5c36-428d-801e-e9f9a60ce429	exotic species	1.00	exotic species	http://sweetontology.net/matranimal/exoticspecies
+003466f4-9ee7-4d3b-81ff-2013add292e2	mutualism	1.00	mutualism	http://sweetontology.net/phenecology/mutualism
+80ae5fdc-c312-4fa1-bf7d-60346529976d	natural selection	1.00	natural selection	http://sweetontology.net/phenecology/naturalselection
+51f3e55c-b694-4028-86fe-604a52dc794f	parasitism	1.00	parasitism	http://sweetontology.net/phenecology/parasitism
+ad3a5f4f-4624-4a08-b875-6723c2615e90	population dynamics	1.00	population dynamics	http://sweetontology.net/phenecology/populationdynamics
+abc96dce-cbae-43a4-b7c2-2ff02276b030	scavenging	1.00	scavenging	http://sweetontology.net/phenecology/scavenging
+e008a809-42eb-4694-aac2-db7b6027ee77	symbiosis	1.00	symbiosis	http://sweetontology.net/phenecology/symbiosis
+6bef0291-a9ca-4832-bbb4-80459dc1493f	ecological dynamics	1.00	ecological dynamics	http://sweetontology.net/phenecology/ecologicaldynamics
+46a26fc7-95f0-409e-8bfa-eb623b3a3f8d	pasture	1.00	pasture	http://sweetontology.net/realmbiolbiome/pasture
+a0c33d15-b76c-4a0d-abb7-6919102b2977	canal	1.00	canal	http://sweetontology.net/realmhydrobody/canal
+2b1f7993-2d54-40de-abc4-3909f619ad4e	park	1.00	park	http://sweetontology.net/realmlandprotected/park
+235996b1-b1a8-4c20-bb1f-711fb1a0c952	phytoplankton	1.00	phytoplankton	http://sweetontology.net/matrmicrobiota/phytoplankton
+0399b52c-e3de-4dcc-9eb6-b1e3acf2cf1b	zooplankton	1.00	zooplankton	http://sweetontology.net/matranimal/zooplankton
+ca8d77f2-9257-4298-9244-e81cd890f000	plankton	1.00	plankton	http://sweetontology.net/matrmicrobiota/plankton
+290354cc-c670-4845-bb66-ef1974b1e2a2	cold seep	1.00	cold seep	http://sweetontology.net/realmoceanfloor/coldseep
+bee69b66-3921-4883-920f-6a0bd85b614f	hydrothermal vent	1.00	hydrothermal vent	http://sweetontology.net/realmoceanfloor/hydrothermalvent
+1c286cb7-2668-4db3-a5ac-cb8b710bebc2	abyssal	1.00	abyssal	http://sweetontology.net/realmocean/abyssal
+09a78997-581b-4d1b-ae71-b2b3f96ef719	benthic	1.00	benthic	http://sweetontology.net/staterealm/benthic
+879d286b-9ea6-4e4d-bdd1-56a4c7ca1531	lagoon	1.00	lagoon	http://sweetontology.net/realmhydrobody/lagoon
+47be68db-d10d-43e7-b150-61cfd3f06126	coastal	1.00	coastal	http://sweetontology.net/realmlandcoastal/coastal
+5a1ebca4-057d-43b9-af6a-04f57b93f8bb	estuary	1.00	estuary	http://sweetontology.net/realmhydrobody/estuary
+eb958dfb-5e38-401f-8b42-5f1273c75a4a	neritic zone	1.00	neritic zone	http://sweetontology.net/realmocean/neriticzone
+fa3bc02d-31a7-4456-b716-a8b8f8393c86	coral reef	1.00	coral reef	http://sweetontology.net/realmbiolbiome/coralreef
+367718c8-cc3b-4c94-a270-0a278afabb43	reef	1.00	reef	http://sweetontology.net/realmoceanfloor/reef
+944d9d09-4317-4e9a-9aa5-dc4282be406e	alpine tundra	1.00	alpine tundra	http://sweetontology.net/realmcryo/alpinetundra
+d58dab07-f57e-47a9-8dcf-02a3e17f3533	savanna	1.00	savanna	http://sweetontology.net/realmbiolbiome/savanna
+686feba9-87ba-474c-8280-7f67565cfb2f	biomass	1.00	biomass	http://sweetontology.net/matrbiomass/biomass
+686feba9-87ba-474c-8280-7f67565cfb2f	biomass	1.00	biomass	http://sweetontology.net/matrenergy/biomass
+6f6537f5-773f-4df1-862b-d9ab80eb5e04	carbon	1.00	carbon	http://sweetontology.net/matrelement/carbon
+5e3999ec-d864-43fd-8d84-bd23630c405f	chlorophyll	1.00	chlorophyll	http://sweetontology.net/matrorganiccompound/chlorophyll
+c59b0666-e20f-4134-847b-89719ed5621a	crown	1.00	crown	http://sweetontology.net/matrplant/crown
+df597f06-8575-4726-acac-65b2bd432d59	dominant species	1.00	dominant species	http://sweetontology.net/matrplant/dominantspecies
+40766d01-bda1-420b-9fd1-fba6d6924f3f	herbivory	1.00	herbivory	http://sweetontology.net/phenecology/herbivory
+ed7c506e-b18e-4a93-ac03-4bdfe119b72f	nitrogen	1.00	nitrogen	http://sweetontology.net/matrelement/nitrogen
+47f4e7ac-b4ca-4ef9-824b-a36ea5510526	phosphorus	1.00	phosphorus	http://sweetontology.net/matrelement/phosphorus
+db69ecb1-0738-4d82-943f-ae92093f500d	photosynthetically active radiation	1.00	photosynthetically active radiation	http://sweetontology.net/statespectralband/photosyntheticallyactiveradiation
+b0ad34ee-4b38-4a8d-a483-b3bfea66fa82	pollen	1.00	pollen	http://sweetontology.net/matraerosol/pollen
+b0ad34ee-4b38-4a8d-a483-b3bfea66fa82	pollen	1.00	pollen	http://sweetontology.net/matrplant/pollen
+fe6b37b9-f95a-491e-a58e-22aa66be9a9d	reforestation	1.00	reforestation	http://sweetontology.net/humanenvircontrol/reforestation
+5bdb3251-4811-439c-b172-9bbcd98e84b3	vegetation cover	1.00	vegetation cover	http://sweetontology.net/matrplant/vegetationcover
+de0ace5c-fa2b-47ca-93db-79d8df7ab6f2	vegetation species	1.00	vegetation species	http://sweetontology.net/matrplant/vegetationspecies
+c7b5c02c-724d-4a19-b824-98180f3900c9	vegetation	1.00	vegetation	http://sweetontology.net/matrplant/vegetation
+a219dbe6-c095-4002-9fbe-012b31da839c	ocean acidification	1.00	ocean acidification	http://sweetontology.net/phenenvirimpact/oceanacidification
+7427fb2d-43b5-478a-960d-2ff9aa398462	standardized precipitation index	1.00	standardized precipitation index	http://sweetontology.net/propindex/standardizedprecipitationindex
+eec5b471-bcc5-4d9b-8274-f3990e79ed84	erosion	1.00	erosion	http://sweetontology.net/phensolid/erosion
+9db10fb2-0ceb-412e-9936-a286c579fa9f	inundation	1.00	inundation	http://sweetontology.net/phensystem/inundation
+536a86bd-3dd1-4f4a-9b4a-222a12746db5	sea level rise	1.00	sea level rise	http://sweetontology.net/phenenvirimpact/sealevelrise
+9c98dcbd-1dc8-4e0a-8ad1-0d11e88360eb	kaplan sst index	1.00	kaplan sst index	http://sweetontology.net/propindex/kaplansstindex
+2aeb8e10-b7f8-429e-b9f6-968ece330741	blocking index	1.00	blocking index	http://sweetontology.net/propindex/blockingindex
+c7fa79e4-67a1-45da-b393-a1b89d54a1a5	common sense climate index	1.00	common sense climate index	http://sweetontology.net/propindex/commonsenseclimateindex
+6448f172-1560-4ea7-8826-8ac85dc820f3	indicator species	1.00	indicator species	http://sweetontology.net/matrbiomass/indicatorspecies
+93c8b32d-ab89-43e1-b58c-f1823fa7d118	invasive species	1.00	invasive species	http://sweetontology.net/phenenvirimpact/invasivespecies
+bb8c48bc-a36e-4f7e-afda-3244b058bc9c	avalanche	1.00	avalanche	http://sweetontology.net/phengeolgeomorphology/avalanche
+82f49e65-c032-4f74-b5c2-a3f8058b7a71	depth hoar	1.00	depth hoar	http://sweetontology.net/matrwater/depthhoar
+ee0fce70-2097-4f5b-853a-c34e6cbff929	salinity	1.00	salinity	http://sweetontology.net/propchemical/salinity
+8ef6560e-c699-49b4-bcb3-6db68506ca22	snow cover	1.00	snow cover	http://sweetontology.net/phenhydro/snowcover
+8ef6560e-c699-49b4-bcb3-6db68506ca22	snow cover	1.00	snow cover	http://sweetontology.net/propspacethickness/snowcover
+a43850a1-7b00-4993-80ff-753c2b5c4015	palmer drought severity index	1.00	palmer drought severity index	http://sweetontology.net/propindex/palmerdroughtseverityindex
+0365f0af-7843-4ba3-af8c-82d032c14f7e	palmer hydrological drought index	1.00	palmer hydrological drought index	http://sweetontology.net/propindex/palmerhydrologicaldroughtindex
+b51f738c-7061-4ced-b216-53734ce4cb43	erosion	1.00	erosion	http://sweetontology.net/phensolid/erosion
+7c1977bc-dfe7-4761-9b30-f42ec986d360	fire weather index	1.00	fire weather index	http://sweetontology.net/propindex/fireweatherindex
+16329a9b-72ea-4b46-b507-2ce389c63f50	forest fire danger index	1.00	forest fire danger index	http://sweetontology.net/propindex/forestfiredangerindex
+c7503ec5-4e63-446a-9390-72c8a638a0af	surface moisture index	1.00	surface moisture index	http://sweetontology.net/propindex/surfacemoistureindex
+8d1157c4-d36b-40db-aa82-3603716f9988	vegetation cover	1.00	vegetation cover	http://sweetontology.net/matrplant/vegetationcover
+625ac4b3-a126-4c98-a061-3a780b942280	biomarker	1.00	biomarker	http://sweetontology.net/staterolebiological/biomarker
+cffe377f-d840-4bcf-9223-8379b72defe7	fauna	1.00	fauna	http://sweetontology.net/matranimal/fauna
+fbd867cf-f7e8-4dbc-9fd2-2ccc0728350f	paleovegetation	1.00	paleovegetation	http://sweetontology.net/matrplant/paleovegetation
+59719c53-a2b7-4200-9b3c-dfa5d39607f7	pollen	1.00	pollen	http://sweetontology.net/matraerosol/pollen
+59719c53-a2b7-4200-9b3c-dfa5d39607f7	pollen	1.00	pollen	http://sweetontology.net/matrplant/pollen
+b53939ae-1264-409d-8434-3bb3d22b2848	carbon dioxide	1.00	carbon dioxide	http://sweetontology.net/matrcompound/carbondioxide
+0948a59e-cc72-4e5d-b97d-4ea0335b0906	methane	1.00	methane	http://sweetontology.net/matrorganiccompound/methane
+bc90bc40-2a21-4a6f-9fb9-bf3ae5845157	nitrous oxide	1.00	nitrous oxide	http://sweetontology.net/matrcompound/nitrousoxide
+3dfa8dcf-0df2-4654-ae3e-c97586265c3e	glaciation	1.00	glaciation	http://sweetontology.net/phencryo/glaciation
+e0d88b2a-8563-443b-8756-73d744a41ee7	loess	1.00	loess	http://sweetontology.net/matrsediment/loess
+8f4e90e0-aea0-40cd-b781-a6a69a6e6cb3	radiocarbon	1.00	radiocarbon	http://sweetontology.net/matrisotope/radiocarbon
+d845886d-0c44-4505-b5b9-d3fcd819208e	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+fe06f678-7155-4f93-9e28-4c083d60cccc	pollen	1.00	pollen	http://sweetontology.net/matraerosol/pollen
+fe06f678-7155-4f93-9e28-4c083d60cccc	pollen	1.00	pollen	http://sweetontology.net/matrplant/pollen
+a389bcd6-929d-43ac-9af1-5a20a4ddcbe2	radiocarbon	1.00	radiocarbon	http://sweetontology.net/matrisotope/radiocarbon
+417a6538-f89e-4f73-a89a-c2e5d2cd7667	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+250ce118-46e7-4dec-9e44-8054c9318cff	solar forcing	1.00	solar forcing	http://sweetontology.net/propenergyflux/solarforcing
+6971fecc-af14-4c97-82db-2b01c98453b9	plate tectonics	1.00	plate tectonics	http://sweetontology.net/humanknowledgedomain/platetectonics
+08bc1b7d-b27b-43e2-a728-4939efb88f08	volcanic activity	1.00	volcanic activity	http://sweetontology.net/phengeolvolcano/volcanicactivity
+c4820c2b-37e0-491e-a268-e5b18e1a1062	mesoclimate	1.00	mesoclimate	http://sweetontology.net/phenplanetclimate/mesoclimate
+78369c58-beaa-46f2-b286-dd2540634556	microclimate	1.00	microclimate	http://sweetontology.net/phenplanetclimate/microclimate
+3b230650-68ff-4e7a-9273-6e0b1083bdfa	solar flux	1.00	solar flux	http://sweetontology.net/propenergyflux/solarflux
+2e544263-d92f-46c2-9568-25e36d0b9825	active layer	1.00	active layer	http://sweetontology.net/realmsoil/activelayer
+c82f3480-545f-4491-83f1-0477369ddcd8	permafrost	1.00	permafrost	http://sweetontology.net/realmsoil/permafrost
+78e5e44c-7832-456d-a599-893ea87ae695	talik	1.00	talik	http://sweetontology.net/realmsoil/talik
+376a1d5c-2496-4381-981f-bc047af92044	frozen ground	1.00	frozen ground	http://sweetontology.net/realmcryo/frozenground
+6159b9d9-4aa5-4dec-8146-0e47751449ff	firn	1.00	firn	http://sweetontology.net/matrwater/firn
+d8e2bcae-7781-41b6-8d2d-7c82ae61be47	glacier terminus	1.00	glacier terminus	http://sweetontology.net/realmcryo/glacierterminus
+a4466cbe-b991-427b-97b8-fdc284b9ef21	freeboard	1.00	freeboard	http://sweetontology.net/propspaceheight/freeboard
+5569b7a3-3a4b-4799-8c68-98126757074b	heat flux	1.00	heat flux	http://sweetontology.net/propenergyflux/heatflux
+5d7ea074-225b-4221-b122-e6a085cdce24	pack ice	1.00	pack ice	http://sweetontology.net/realmcryo/packice
+cece77b6-42bf-44f6-9193-050cbc5f4cf7	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+6bc39a6d-cc60-467a-9181-d8b4e02a1cb0	salinity	1.00	salinity	http://sweetontology.net/propchemical/salinity
+860e2af9-ce29-4f3f-b027-ae3747eb3e01	sea ice	1.00	sea ice	http://sweetontology.net/realmcryo/seaice
+41ebe049-230e-4ff7-acb1-43de68ace83e	albedo	1.00	albedo	http://sweetontology.net/propfraction/albedo
+e1dbe955-7285-4df2-a854-07693fce44ec	avalanche	1.00	avalanche	http://sweetontology.net/phengeolgeomorphology/avalanche
+c306d542-9be8-449d-ba33-28ad033c77aa	depth hoar	1.00	depth hoar	http://sweetontology.net/matrwater/depthhoar
+ea936862-2c98-41e5-8514-6b7288a5f941	frost	1.00	frost	http://sweetontology.net/matrwater/frost
+1f4cdbc4-0f65-4384-83c9-9422c280717d	permafrost	1.00	permafrost	http://sweetontology.net/realmsoil/permafrost
+00a21e9c-0c1d-4931-b9fa-b0204625a98a	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+c8ff0035-4776-4eb9-8cc9-a63d380102c8	snow cover	1.00	snow cover	http://sweetontology.net/phenhydro/snowcover
+c8ff0035-4776-4eb9-8cc9-a63d380102c8	snow cover	1.00	snow cover	http://sweetontology.net/propspacethickness/snowcover
+99506fd1-5f84-485d-8e26-03e4f7b55136	snow facies	1.00	snow facies	http://sweetontology.net/matrwater/snowfacies
+587e4d68-36f0-45b5-9978-4b3edd58a1c0	snow water equivalent	1.00	snow water equivalent	http://sweetontology.net/propspacethickness/snowwaterequivalent
+067004b9-1628-4c00-8bfb-28f910b68d59	whiteout	1.00	whiteout	http://sweetontology.net/phenatmo/whiteout
+067004b9-1628-4c00-8bfb-28f910b68d59	whiteout	1.00	whiteout	http://sweetontology.net/phenatmosky/whiteout
+fa0a36c3-2503-4662-98cd-7f3e74ce9f80	cryosphere	1.00	cryosphere	http://sweetontology.net/realm/cryosphere
+0e530a5f-1e75-4602-9659-98ff5c3d7076	carbon footprint	1.00	carbon footprint	http://sweetontology.net/propspacemultidimensional/carbonfootprint
+0ceb5ef1-5a07-4f93-8e86-d3cc2baf5768	land tenure	1.00	land tenure	http://sweetontology.net/humanenvirconservation/landtenure
+2be0af28-a6b8-4fce-82e4-1ad86788a4d5	land management	1.00	land management	http://sweetontology.net/humanenvirconservation/landmanagement
+14555831-70ae-4650-8983-956d65595575	water management	1.00	water management	http://sweetontology.net/humanenvircontrol/watermanagement
+de89c42c-206a-4573-a2af-edffe5ddd6bf	biochemical release	1.00	biochemical release	http://sweetontology.net/phenreaction/biochemicalrelease
+09cf34f3-5e20-4dc1-9b76-97afd856ebe0	civil disturbance	1.00	civil disturbance	http://sweetontology.net/human/civildisturbance
+40869a25-edea-4438-80f9-47c9e6910b9b	conservation	1.00	conservation	http://sweetontology.net/humanenvirconservation/conservation
+edfbff1e-b24b-40b9-be54-e1823b4d7f49	fossil fuel burning	1.00	fossil fuel burning	http://sweetontology.net/humancommerce/fossilfuelburning
+9a4715a7-1847-4fef-8116-494b36420fb7	deforestation	1.00	deforestation	http://sweetontology.net/phenenvirimpact/deforestation
+dee57819-62c7-4f89-87e5-90a87a07820a	desertification	1.00	desertification	http://sweetontology.net/phenenvirimpact/desertification
+32777aa3-a06a-4719-bbe5-7dcecb1a06f5	eutrophication	1.00	eutrophication	http://sweetontology.net/phenenvirimpact/eutrophication
+59b3849e-6704-402f-9a3e-512db10c2f51	irrigation	1.00	irrigation	http://sweetontology.net/humanagriculture/irrigation
+db692676-a2f6-4fd9-91b6-92ae4f9c04fd	communications	1.00	communications	http://sweetontology.net/matrequipment/communications
+12433114-d15a-46cf-aba9-ce4b569119ce	electricity	1.00	electricity	http://sweetontology.net/phenenergy/electricity
+37a6c8e2-f2ac-48a4-a4fa-d80f700f68db	transportation	1.00	transportation	http://sweetontology.net/humantransportation/transportation
+d4313915-2d24-424c-a171-30ee9a6f4bb5	infrastructure	1.00	infrastructure	http://sweetontology.net/matrequipment/infrastructure
+bb9c9be6-78c7-4fbd-9a35-a218276393ec	heat	1.00	heat	http://sweetontology.net/propenergy/heat
+085edf65-1c8c-414a-b8e4-a1a08ff08f22	population	1.00	population	http://sweetontology.net/propcount/population
+b8a877b7-d867-4305-9053-3777e5dd330a	epidemiology	1.00	epidemiology	http://sweetontology.net/humanknowledgedomain/epidemiology
+aef9855c-70e1-4e22-aa25-8ccd23176d3b	conservation	1.00	conservation	http://sweetontology.net/humanenvirconservation/conservation
+d11d5e6d-fafb-4012-818c-8bfb984128f1	consumer behavior	1.00	consumer behavior	http://sweetontology.net/humandecision/consumerbehavior
+b2f12641-19c8-4b26-9496-e79da5efcb85	recycling	1.00	recycling	http://sweetontology.net/phensystem/recycling
+c8317644-4cb2-4e37-b536-c762f7e670ab	social behavior	1.00	social behavior	http://sweetontology.net/human/socialbehavior
+92d8968b-617e-433d-ab9b-e269497c3f43	industrialization	1.00	industrialization	http://sweetontology.net/humancommerce/industrialization
+8d11c81c-ff5b-4cc0-9be2-8e73dddcb51b	sustainable development	1.00	sustainable development	http://sweetontology.net/humancommerce/sustainabledevelopment
+03d38261-1c90-491b-bc4e-cc4e703e1dff	sustainability	1.00	sustainability	http://sweetontology.net/humanenvirconservation/sustainability
+f6a5cc87-a333-4e99-88d4-bf7b5b1cf484	entrainment	1.00	entrainment	http://sweetontology.net/phenmixing/entrainment
+1e2b1b67-a401-4fb6-9ee9-b022c1c023dc	erosion	1.00	erosion	http://sweetontology.net/phensolid/erosion
+b41498cd-6b2b-47e3-afe7-0f05b4c0807d	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+42b5ae5b-90d5-44f0-b331-6c22cdd45c3f	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+b07017e8-d714-45a6-b1fe-8c00230ec209	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+10270ee0-8d85-4c75-9fa2-49e7a9755cb3	active layer	1.00	active layer	http://sweetontology.net/realmsoil/activelayer
+b6723314-3db7-4bdd-85ee-0b8507e6ae1b	permafrost	1.00	permafrost	http://sweetontology.net/realmsoil/permafrost
+c39710ae-423f-44c8-b969-9af8a1f912cf	talik	1.00	talik	http://sweetontology.net/realmsoil/talik
+8073b62d-a2f3-4ad9-b619-de26f28877a7	frozen ground	1.00	frozen ground	http://sweetontology.net/realmcryo/frozenground
+eb039da2-8af7-4d31-9ec9-0700251cfd5d	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+eb039da2-8af7-4d31-9ec9-0700251cfd5d	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+cfaf76ef-89e2-4dc8-a4eb-b3308ef8c52c	saltation	1.00	saltation	http://sweetontology.net/phengeolgeomorphology/saltation
+5ce16b97-c91c-420c-9701-33d19d50b286	loess	1.00	loess	http://sweetontology.net/matrsediment/loess
+a7b04d56-2a44-4a94-8d94-1911a7110f9d	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+5fff607c-5df4-4f06-a541-896f7cbc1e4c	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+82eac236-38ba-469d-837a-950ffa7e8316	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+e069e3fc-0c75-40ee-92d7-595991f8fdb4	isthmus	1.00	isthmus	http://sweetontology.net/realmlandcoastal/isthmus
+9ca8db82-9230-42e0-ad91-9068bc144855	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+9ca8db82-9230-42e0-ad91-9068bc144855	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+ee016b0b-353b-4811-bfc2-5d32aed59f29	accretion	1.00	accretion	http://sweetontology.net/phensolid/accretion
+8b99d6c3-1751-43e6-81d1-92a7618cadb3	deposition	1.00	deposition	http://sweetontology.net/phenfluidtransport/deposition
+8b99d6c3-1751-43e6-81d1-92a7618cadb3	deposition	1.00	deposition	http://sweetontology.net/procstatechange/deposition
+c344fddc-ffa8-4093-bcf5-bcfe7806c737	saltation	1.00	saltation	http://sweetontology.net/phengeolgeomorphology/saltation
+870803f5-8bbc-4e39-8372-ce21b0decb75	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+866aa07b-132c-4b93-9ced-d74b56b3016f	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+af017320-085a-4e6c-81c2-38056cb55c7b	subsidence	1.00	subsidence	http://sweetontology.net/phengeolgeomorphology/subsidence
+af017320-085a-4e6c-81c2-38056cb55c7b	subsidence	1.00	subsidence	http://sweetontology.net/phensolid/subsidence
+ff850d62-675c-4386-a375-fe4af92ec3ff	bar	1.00	bar	http://sweetontology.net/realmlandcoastal/bar
+a78c946a-9529-4643-b002-1aa2ac9cfed6	canyon	1.00	canyon	http://sweetontology.net/realmlandfluvial/canyon
+e18c970a-d0c6-4430-b419-64cf718bc456	confluence	1.00	confluence	http://sweetontology.net/propdiffusivity/confluence
+ba37314d-ec38-4e67-bf30-7e1fdc6bfbad	flood plain	1.00	flood plain	http://sweetontology.net/realmlandfluvial/floodplain
+9d078d5c-62cb-46b5-a6f5-43678643a0ce	island	1.00	island	http://sweetontology.net/realmlandcoastal/island
+8ca51b5e-0b7a-4b7a-b7e2-6e163e195e26	lacustrine plain	1.00	lacustrine plain	http://sweetontology.net/realmlandfluvial/lacustrineplain
+4c09d43f-68d5-469d-aaed-f9ef8968ef2e	marsh	1.00	marsh	http://sweetontology.net/realmhydrobody/marsh
+89228e69-5a64-4662-839f-cb3d2209fa41	pond	1.00	pond	http://sweetontology.net/realmhydrobody/pond
+87624706-e11f-4043-ac54-479ed94b8dac	river	1.00	river	http://sweetontology.net/realmhydrobody/river
+620a9e6c-5851-48b7-93c5-a1706546f5d1	spring	1.00	spring	http://sweetontology.net/realmhydrobody/spring
+620a9e6c-5851-48b7-93c5-a1706546f5d1	spring	1.00	spring	http://sweetontology.net/reprtimeseason/spring
+01a84bc1-a571-4d23-b57f-1b04fd9542a6	stream	1.00	stream	http://sweetontology.net/realmhydrobody/stream
+8f6adff6-672d-4066-8c85-25418a7d0e00	swamp	1.00	swamp	http://sweetontology.net/realmhydrobody/swamp
+f4f9c238-2d7e-4529-944b-52389c13932c	valley	1.00	valley	http://sweetontology.net/realmlandfluvial/valley
+6ae0d1f7-cc99-4da7-8446-e2dca16f546b	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+6ae0d1f7-cc99-4da7-8446-e2dca16f546b	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+b655ca30-361c-4434-a784-68b8ab99668d	attrition	1.00	attrition	http://sweetontology.net/phenoceancoastal/attrition
+3288c7e0-20fa-4e05-80fa-cdb14c436c7e	entrainment	1.00	entrainment	http://sweetontology.net/phenmixing/entrainment
+e8ba38ce-fc48-44b7-8b78-03b69e068d46	saltation	1.00	saltation	http://sweetontology.net/phengeolgeomorphology/saltation
+e9c6d45a-787e-4099-bbf9-03d377cdb8d5	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+b1de8d2f-cfe6-4358-a4cd-5b7e19d0e585	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+5d05853c-b709-484f-a406-03f64e643ea4	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+ad793d5e-b75d-4d3e-a542-ad4b4075b141	ablation	1.00	ablation	http://sweetontology.net/phensolid/ablation
+c4c96fc4-c75b-4e98-852d-b28fdf6b77a4	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+c4c96fc4-c75b-4e98-852d-b28fdf6b77a4	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+10ec2826-c4ac-4373-ad05-9bb4eb35b360	entrainment	1.00	entrainment	http://sweetontology.net/phenmixing/entrainment
+7fa9d5ef-690e-4daf-8503-363b6b1cb6e4	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+b609e525-db71-4634-b569-f8aab5ad544e	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+07825acf-619a-4689-b1ed-09c15166624c	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+0317caf8-af0a-4abe-89fb-fd1d9c33b9e7	porosity	1.00	porosity	http://sweetontology.net/propfraction/porosity
+d727d3c7-3a02-48c6-ab63-a4b3d3364783	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+a9f7bee8-fb32-40b1-9936-ecf6f6597b6b	cinder cone	1.00	cinder cone	http://sweetontology.net/matrrockigneous/cindercone
+1a888a27-8715-46c8-9e11-a6bffba00078	geyser	1.00	geyser	http://sweetontology.net/realmlandvolcanic/geyser
+edb9d13d-27a1-4e9a-a32e-4e49b5e76836	lava plain	1.00	lava plain	http://sweetontology.net/realmlandvolcanic/lavaplain
+694e18ec-ceaf-4070-9763-f3ee6dbd6b5b	plateau	1.00	plateau	http://sweetontology.net/realmlandorographic/plateau
+97298feb-6991-4d68-8337-177460e436ad	ridge	1.00	ridge	http://sweetontology.net/phenfluiddynamics/ridge
+97298feb-6991-4d68-8337-177460e436ad	ridge	1.00	ridge	http://sweetontology.net/realmlandorographic/ridge
+97298feb-6991-4d68-8337-177460e436ad	ridge	1.00	ridge	http://sweetontology.net/reprspacegeometry/ridge
+ca874a66-f3a8-4099-978c-4684944dc348	rift valley	1.00	rift valley	http://sweetontology.net/realmlandtectonic/riftvalley
+7c2e1960-ae20-46a9-acf1-a3e71542fbb4	volcano	1.00	volcano	http://sweetontology.net/realmlandvolcanic/volcano
+0d43cb88-dd6d-40ac-b241-b628a39ed2af	subduction	1.00	subduction	http://sweetontology.net/phengeoltectonic/subduction
+7d5472ba-ae65-45df-a19a-c762055eaead	tectonic uplift	1.00	tectonic uplift	http://sweetontology.net/phengeoltectonic/tectonicuplift
+e77c0096-05a7-47ff-8629-55d12c46bb6b	landscape ecology	1.00	landscape ecology	http://sweetontology.net/humanknowledgedomain/landscapeecology
+dcb100c9-5b43-422a-a429-25cae9dbb170	reforestation	1.00	reforestation	http://sweetontology.net/humanenvircontrol/reforestation
+f36d71c6-f2ad-49c4-809f-09b4f0688412	landscape	1.00	landscape	http://sweetontology.net/realmlandform/landscape
+9409ee0f-2b72-4472-9d61-f8072981a6cb	calcium	1.00	calcium	http://sweetontology.net/matrelement/calcium
+a7ae5843-479c-4055-b8fc-ba651e485750	carbon	1.00	carbon	http://sweetontology.net/matrelement/carbon
+9bad3c7b-daf6-428a-89bd-ce62b074dfcf	cation exchange capacity	1.00	cation exchange capacity	http://sweetontology.net/propcharge/cationexchangecapacity
+781bf38b-2797-4415-8d5a-67e9f3a2f5fe	electrical conductivity	1.00	electrical conductivity	http://sweetontology.net/propconductivity/electricalconductivity
+e2a88ac8-7bf3-408c-b2b4-b3217f9e4917	hydraulic conductivity	1.00	hydraulic conductivity	http://sweetontology.net/propconductivity/hydraulicconductivity
+ae575305-340d-474b-99a7-22b537f10ec8	iron	1.00	iron	http://sweetontology.net/matrelement/iron
+7b86bc20-ba2b-4cd0-8aa0-ed47663d9222	magnesium	1.00	magnesium	http://sweetontology.net/matrelement/magnesium
+e1179e7f-59e5-465a-9879-6bda6985744e	nitrogen	1.00	nitrogen	http://sweetontology.net/matrelement/nitrogen
+215f69b9-259a-4b82-9f8f-f96d4f5aaad2	organic matter	1.00	organic matter	http://sweetontology.net/realmsoil/organicmatter
+08240c92-00b5-4f25-bf2e-8030531a78d2	permafrost	1.00	permafrost	http://sweetontology.net/realmsoil/permafrost
+9169ace5-0f04-4fc9-b38d-b89a786b9fe1	phosphorus	1.00	phosphorus	http://sweetontology.net/matrelement/phosphorus
+8af17fd3-7c42-4698-9d60-e154ece5aebe	potassium	1.00	potassium	http://sweetontology.net/matrelement/potassium
+742e6889-1ebf-4441-b803-4892c7176822	sulfur	1.00	sulfur	http://sweetontology.net/matrelement/sulfur
+c67c1e1c-19f1-49de-8b2b-d5ce6f596323	thermal conductivity	1.00	thermal conductivity	http://sweetontology.net/propconductivity/thermalconductivity
+136b1de3-4b2e-49e6-80cd-cf2e9bac2c48	albedo	1.00	albedo	http://sweetontology.net/propfraction/albedo
+00c1d7b9-61d8-40ad-8c33-f27006832866	anisotropy	1.00	anisotropy	http://sweetontology.net/statespaceconfiguration/anisotropy
+4ee9d0c5-2e0c-486c-b89b-7b002d18c5f7	emissivity	1.00	emissivity	http://sweetontology.net/propfraction/emissivity
+f043c0a8-9cee-4c51-bf64-a4aaa34ab75d	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+3e822484-c94a-457b-a32f-376fcbd6fd35	topography	1.00	topography	http://sweetontology.net/propspaceheight/topography
+6a426480-c58f-4b6b-8e35-0975b7f6edb5	land surface	1.00	land surface	http://sweetontology.net/realmlandform/landsurface
+f6c057c9-c789-4cd5-ba22-e9b08aae152b	aquaculture	1.00	aquaculture	http://sweetontology.net/humanagriculture/aquaculture
+80d79c7e-6c64-4ada-bfcc-4093969758a5	bathymetry	1.00	bathymetry	http://sweetontology.net/propspaceheight/bathymetry
+f5df87b6-ed50-4da0-9ba5-7ce4c907bdb3	coral bleaching	1.00	coral bleaching	http://sweetontology.net/phenenvirimpact/coralbleaching
+cd7a7748-7231-4a73-b85c-b5696066230a	erosion	1.00	erosion	http://sweetontology.net/phensolid/erosion
+82b62e59-6ea1-48e1-a402-bd386c5046eb	intertidal zone	1.00	intertidal zone	http://sweetontology.net/realmlandcoastal/intertidalzone
+0afaaa5e-f88c-4c1f-95c1-1faa0148885a	sea level rise	1.00	sea level rise	http://sweetontology.net/phenenvirimpact/sealevelrise
+9457740a-897b-4adc-96fb-f3e3aafa34ea	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+9edd23d0-68a9-4bae-8887-705058f48ba7	storm surge	1.00	storm surge	http://sweetontology.net/phenoceancoastal/stormsurge
+78a4dbe2-2d6b-4562-988c-022c3a83f4c1	plate tectonics	1.00	plate tectonics	http://sweetontology.net/humanknowledgedomain/platetectonics
+14c8935f-8a46-4111-8f2e-bec8bbae5d13	bioturbation	1.00	bioturbation	http://sweetontology.net/phenmixing/bioturbation
+4bfed15d-b8b4-4fb1-940b-ef342c4c2225	diagenesis	1.00	diagenesis	http://sweetontology.net/phengeolgeomorphology/diagenesis
+4bfed15d-b8b4-4fb1-940b-ef342c4c2225	diagenesis	1.00	diagenesis	http://sweetontology.net/phensolid/diagenesis
+a4eb3bc4-48a5-4ed2-a74b-ca87a58e90f5	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+41b7293f-7f20-40ab-8bf7-b211c68146b9	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+68e2c729-f729-4936-af2e-0ecf7ee7d231	turbidity	1.00	turbidity	http://sweetontology.net/propindex/turbidity
+a74abbc1-dd75-4f22-bbec-7d45091a4593	ambient noise	1.00	ambient noise	http://sweetontology.net/phenwavenoise/ambientnoise
+4eab7956-e59e-4615-8d5c-39a16faa1f27	alkalinity	1.00	alkalinity	http://sweetontology.net/propchemical/alkalinity
+64d17528-29b4-4e2e-843a-7f7035bb5717	ammonia	1.00	ammonia	http://sweetontology.net/matrcompound/ammonia
+26afa886-4866-4536-be3a-6f9db9aacd97	carbon dioxide	1.00	carbon dioxide	http://sweetontology.net/matrcompound/carbondioxide
+68f7ba1b-a2f9-41b6-9bc1-fd187942fbed	carbonate	1.00	carbonate	http://sweetontology.net/matrcompound/carbonate
+68f7ba1b-a2f9-41b6-9bc1-fd187942fbed	carbonate	1.00	carbonate	http://sweetontology.net/matrion/carbonate
+5c52009f-2c44-4db1-b62b-135c6181bad2	carbon	1.00	carbon	http://sweetontology.net/matrelement/carbon
+7989eae1-8ea3-4039-af0c-9130de145449	chlorophyll	1.00	chlorophyll	http://sweetontology.net/matrorganiccompound/chlorophyll
+b846063c-e218-4fc6-9866-0cdca24e9023	hypoxia	1.00	hypoxia	http://sweetontology.net/statechemical/hypoxia
+4fde380a-38c5-4d46-bc80-4f2515a43983	nitrate	1.00	nitrate	http://sweetontology.net/matrion/nitrate
+61740c18-f010-4384-8516-1eb33d75352e	nitric acid	1.00	nitric acid	http://sweetontology.net/matrcompound/nitricacid
+941410da-0b7f-4ec6-a718-212194ced13f	nitrite	1.00	nitrite	http://sweetontology.net/matrion/nitrite
+54054bc3-5faa-4b0d-b5dd-cf04595369b5	nitrogen dioxide	1.00	nitrogen dioxide	http://sweetontology.net/matrcompound/nitrogendioxide
+db5357c9-cc9d-4693-86fe-6bb88555d434	nitrogen	1.00	nitrogen	http://sweetontology.net/matrelement/nitrogen
+d1c2bba5-799d-412b-80e0-fa04058416e3	nitrous oxide	1.00	nitrous oxide	http://sweetontology.net/matrcompound/nitrousoxide
+b2bdeb71-81b5-43e6-a8b1-b09c215c8d1a	organic matter	1.00	organic matter	http://sweetontology.net/realmsoil/organicmatter
+90aa8838-79bd-4b28-b518-8217e863c385	oxygen	1.00	oxygen	http://sweetontology.net/matrelement/oxygen
+0b513d8c-bfd3-44ee-976e-42757b8375a2	phosphate	1.00	phosphate	http://sweetontology.net/matrcompound/phosphate
+4433600b-f323-458a-b295-352f939aab6b	ph	1.00	ph	http://sweetontology.net/propchemical/ph
+37669b8c-1940-4330-b4e9-ee49ad3673b5	chlorophyll	1.00	chlorophyll	http://sweetontology.net/matrorganiccompound/chlorophyll
+6641ff15-36c8-4dbc-bf9c-176a08688173	radiocarbon	1.00	radiocarbon	http://sweetontology.net/matrisotope/radiocarbon
+c91c8879-1b29-48e3-b4cd-a238af66cdaf	silicate	1.00	silicate	http://sweetontology.net/matrcompound/silicate
+0cb7f2c6-5e99-4781-8d4f-19ecbad2e2e0	advection	1.00	advection	http://sweetontology.net/phenfluidtransport/advection
+10a9c153-f37d-48fe-920d-c790d946ab07	convection	1.00	convection	http://sweetontology.net/phenfluidtransport/convection
+6fe4680b-96e8-4304-ab32-c17a0769932c	diffusion	1.00	diffusion	http://sweetontology.net/phenmixing/diffusion
+aa1bc71c-daeb-401e-9e29-ebde975482cf	thermohaline circulation	1.00	thermohaline circulation	http://sweetontology.net/phenoceandynamics/thermohalinecirculation
+b9f343a1-0b8d-4e88-91bc-21f5d551963f	turbulence	1.00	turbulence	http://sweetontology.net/phenfluidinstability/turbulence
+55715ed3-471e-46a8-97b6-b463708a2cbe	vorticity	1.00	vorticity	http://sweetontology.net/proprotation/vorticity
+a031952d-9f00-4ba5-9966-5f87ab9dfdd4	ocean circulation	1.00	ocean circulation	http://sweetontology.net/phenoceandynamics/oceancirculation
+5f6358aa-872c-4c1c-9388-4714138f034a	advection	1.00	advection	http://sweetontology.net/phenfluidtransport/advection
+a9b6a001-42b2-48db-b132-62e69f03b8cb	bowen ratio	1.00	bowen ratio	http://sweetontology.net/propdimensionlessratio/bowenratio
+93c1a177-70e3-4c33-a183-baff7f401697	condensation	1.00	condensation	http://sweetontology.net/procstatechange/condensation
+2ef42281-1e38-4391-b578-ba6a6158f0c2	conduction	1.00	conduction	http://sweetontology.net/procphysical/conduction
+69d394f7-a792-4a17-8d7f-e60cd60dcda0	convection	1.00	convection	http://sweetontology.net/phenfluidtransport/convection
+064d919e-3262-44c3-a636-8094bc963001	diffusion	1.00	diffusion	http://sweetontology.net/phenmixing/diffusion
+881eea51-e32c-4174-a73f-d56c94122c2e	evaporation	1.00	evaporation	http://sweetontology.net/procstatechange/evaporation
+ee2cb9eb-f960-4e23-9e7c-be64d44a64e7	heat flux	1.00	heat flux	http://sweetontology.net/propenergyflux/heatflux
+d1426df9-7653-442b-8e38-fa28757ec748	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+e501d002-d11e-4569-8c0d-e40ae5b45f65	absorption	1.00	absorption	http://sweetontology.net/procchemical/absorption
+e501d002-d11e-4569-8c0d-e40ae5b45f65	absorption	1.00	absorption	http://sweetontology.net/procwave/absorption
+90f97e5b-f883-4a34-a3bc-7dea8d96eb7d	bioluminescence	1.00	bioluminescence	http://sweetontology.net/procchemical/bioluminescence
+a60ae1b6-abfc-4905-8c09-772da7bb1a10	fluorescence	1.00	fluorescence	http://sweetontology.net/procchemical/fluorescence
+87b074b4-9b73-4e69-b8c0-0f112b1cfa6d	gelbstoff	1.00	gelbstoff	http://sweetontology.net/matrbiomass/gelbstoff
+40aacf7a-aba0-4ba2-bf85-ea7c39c3322c	irradiance	1.00	irradiance	http://sweetontology.net/propenergyflux/irradiance
+001f18d3-7e61-430b-9883-1960c6256fe5	optical depth	1.00	optical depth	http://sweetontology.net/propspacethickness/opticaldepth
+b7410899-350a-4443-9430-c7fe1fa3a499	photosynthetically active radiation	1.00	photosynthetically active radiation	http://sweetontology.net/statespectralband/photosyntheticallyactiveradiation
+68dacfbb-4f23-4325-b80f-4b09d41bd505	radiance	1.00	radiance	http://sweetontology.net/propenergyflux/radiance
+4f7ad022-70ea-4254-b0ae-7a231fc2e46a	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+20b41061-e6dc-47ef-b73b-00dc08a59618	scattering	1.00	scattering	http://sweetontology.net/procwave/scattering
+954c2f25-3ec8-4774-ba34-fa4289f33f0e	secchi depth	1.00	secchi depth	http://sweetontology.net/propspaceheight/secchidepth
+f0d83687-bc0a-4491-bb3e-697f1018da13	turbidity	1.00	turbidity	http://sweetontology.net/propindex/turbidity
+e5bca08d-ecb3-4b85-8acd-fed782875aa2	sea level pressure	1.00	sea level pressure	http://sweetontology.net/proppressure/sealevelpressure
+e02b0b50-a0f2-4c47-841b-9689fdb99121	potential temperature	1.00	potential temperature	http://sweetontology.net/proptemperature/potentialtemperature
+68772b70-e493-48d5-b063-00b9d2dd4078	thermocline	1.00	thermocline	http://sweetontology.net/realmocean/thermocline
+11aca777-8a01-42ce-b076-b3059c3d8cae	sea state	1.00	sea state	http://sweetontology.net/propspaceheight/seastate
+0bf50cd4-8a97-468c-8e73-047e3e09a03d	storm surge	1.00	storm surge	http://sweetontology.net/phenoceancoastal/stormsurge
+a90526a9-5476-45bc-9a15-73ac2dfc62ab	surf beat	1.00	surf beat	http://sweetontology.net/phenoceancoastal/surfbeat
+13aeaea0-ab45-4148-abcf-c6becf7a8934	turbulence	1.00	turbulence	http://sweetontology.net/phenfluidinstability/turbulence
+253ccaf2-dd4c-4fc1-923d-1aea542a51b0	vorticity	1.00	vorticity	http://sweetontology.net/proprotation/vorticity
+d571e1f5-7449-4052-943b-94d76f762677	wind chill	1.00	wind chill	http://sweetontology.net/proptemperature/windchill
+855c22f5-d1e0-4ccf-81bd-c8120e7c4055	wind shear	1.00	wind shear	http://sweetontology.net/propspeed/windshear
+7041e51c-e2de-405a-b154-6016f624f54f	conductivity	1.00	conductivity	http://sweetontology.net/propconductivity/conductivity
+007ab607-2ee1-484d-85fb-0bfb89f18c9b	density	1.00	density	http://sweetontology.net/propmass/density
+41926d67-161a-4add-bb12-66038c919efb	desalinization	1.00	desalinization	http://sweetontology.net/procchemical/desalinization
+04305c55-14f0-42a3-a099-79eb326946d7	halocline	1.00	halocline	http://sweetontology.net/realmocean/halocline
+fe4a246b-4614-422b-8ca5-0481ee417318	potential density	1.00	potential density	http://sweetontology.net/propmass/potentialdensity
+fe4a246b-4614-422b-8ca5-0481ee417318	potential density	1.00	potential density	http://sweetontology.net/reprspacecoordinate/potentialdensity
+2ad73f85-8bad-4e5a-a902-e83eee910b5e	pycnocline	1.00	pycnocline	http://sweetontology.net/realmocean/pycnocline
+7e95b5fc-1d58-431a-af36-948b29fa870d	salinity	1.00	salinity	http://sweetontology.net/propchemical/salinity
+ae1c9b54-caf2-4726-b180-5c6544f09111	heat flux	1.00	heat flux	http://sweetontology.net/propenergyflux/heatflux
+ea85ea0b-1b7d-464a-9f8c-1f80383ffc51	pack ice	1.00	pack ice	http://sweetontology.net/realmcryo/packice
+8ed9f39d-986e-4b36-83f9-f29f6a4df89b	reflectance	1.00	reflectance	http://sweetontology.net/propfraction/reflectance
+04fa9023-ab68-4dd0-a82e-abe685105a53	salinity	1.00	salinity	http://sweetontology.net/propchemical/salinity
+d73e969a-4b66-4713-8d63-fa3cbb1e25e3	sea ice	1.00	sea ice	http://sweetontology.net/realmcryo/seaice
+062be713-9c35-458e-86e2-26cea9415f5d	storm surge	1.00	storm surge	http://sweetontology.net/phenoceancoastal/stormsurge
+1ee8a323-f0ba-4a21-b597-50890c527c8e	water quality	1.00	water quality	http://sweetontology.net/phenenvirimpact/waterquality
+7b9fb947-97cd-4354-a799-f14a81564132	calcium	1.00	calcium	http://sweetontology.net/matrelement/calcium
+37dac8df-b04b-4561-91fb-886e1bded2c1	carbon dioxide	1.00	carbon dioxide	http://sweetontology.net/matrcompound/carbondioxide
+cf32d0f2-31f5-450d-9f1d-8aa38fd526dc	iron	1.00	iron	http://sweetontology.net/matrelement/iron
+daab3b2a-1fe7-4ad9-8340-1a7cfa54a2ac	methane	1.00	methane	http://sweetontology.net/matrorganiccompound/methane
+ddbd1be1-2a1b-4aea-a085-6a63208a75c0	nitrous oxide	1.00	nitrous oxide	http://sweetontology.net/matrcompound/nitrousoxide
+aeaa43ab-5ccf-4df7-b8ad-b9f9f4249551	potassium	1.00	potassium	http://sweetontology.net/matrelement/potassium
+c692e8e4-b920-4eb5-86c3-b5f6121fec4b	sodium	1.00	sodium	http://sweetontology.net/matrelement/sodium
+4487cb97-df49-421f-8c00-5c5f12dd8af1	velocity	1.00	velocity	http://sweetontology.net/propspeed/velocity
+8c615709-df55-4b09-a5a9-1fabb133fe1a	glaciation	1.00	glaciation	http://sweetontology.net/phencryo/glaciation
+733234ec-053b-4595-811a-b221e6afb35e	loess	1.00	loess	http://sweetontology.net/matrsediment/loess
+e4871f3e-bc88-4380-b7b7-3a18afccc2bd	paleovegetation	1.00	paleovegetation	http://sweetontology.net/matrplant/paleovegetation
+14c8721e-4d05-4aaa-90be-8607ae2f84b1	pollen	1.00	pollen	http://sweetontology.net/matraerosol/pollen
+14c8721e-4d05-4aaa-90be-8607ae2f84b1	pollen	1.00	pollen	http://sweetontology.net/matrplant/pollen
+bf0db125-0182-42e7-81c9-6ed55a05ddd0	radiocarbon	1.00	radiocarbon	http://sweetontology.net/matrisotope/radiocarbon
+ac45c059-9555-45ee-ad20-d58514578f1e	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+adcd37fe-9f4a-4d8d-8f79-489775707ea2	pollen	1.00	pollen	http://sweetontology.net/matraerosol/pollen
+adcd37fe-9f4a-4d8d-8f79-489775707ea2	pollen	1.00	pollen	http://sweetontology.net/matrplant/pollen
+23822618-39a2-4b2b-9162-37bb0651c118	radiocarbon	1.00	radiocarbon	http://sweetontology.net/matrisotope/radiocarbon
+4722fc1e-f93f-4aa1-854a-2b8a82920008	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+c7245882-84a1-4192-acfa-a758b5b9c151	paleoclimate	1.00	paleoclimate	http://sweetontology.net/phenplanetclimate/paleoclimate
+72eb280a-d5d0-4c5e-b789-8f1a8cf8bdac	natural gas	1.00	natural gas	http://sweetontology.net/matrnaturalresource/naturalgas
+37f3fdb8-a82f-4bff-bda4-cca12a683d6f	microfossil	1.00	microfossil	http://sweetontology.net/matrrock/microfossil
+44d0ad8f-fe22-4d17-bc47-c0b728a82baf	petroleum	1.00	petroleum	http://sweetontology.net/matrnaturalresource/petroleum
+8c6adb44-54c5-42f1-ae19-602e248ff9d9	hydrolysis	1.00	hydrolysis	http://sweetontology.net/procchemical/hydrolysis
+d73ed320-cd5b-4994-a26a-dac5a2fc394f	nitrification	1.00	nitrification	http://sweetontology.net/procchemical/nitrification
+7b60ab41-92e7-4550-821b-0ab7ebd3d7c8	decomposition	1.00	decomposition	http://sweetontology.net/phenbiol/decomposition
+2b1f870b-c679-4b6d-b02e-3eb005f0648d	hydration	1.00	hydration	http://sweetontology.net/procchemical/hydration
+6628bfb9-c0e1-4281-9b1a-d213a9d5b2d8	dissolution	1.00	dissolution	http://sweetontology.net/procchemical/dissolution
+906e647b-2683-4ae7-9986-1aea15582b52	geochemistry	1.00	geochemistry	http://sweetontology.net/humanknowledgedomain/geochemistry
+5498572c-aaed-4c08-8aad-8b297057e9c9	geodetics	1.00	geodetics	http://sweetontology.net/humanknowledgedomain/geodetics
+204b482b-449b-42c9-a5bb-f6da42bee3a4	magnetic field	1.00	magnetic field	http://sweetontology.net/phenelecmag/magneticfield
+720969dd-e966-41aa-af94-ee41cdf60390	paleomagnetism	1.00	paleomagnetism	http://sweetontology.net/phengeol/paleomagnetism
+910013d7-1e6a-4d1a-9921-be32d792a290	geomagnetism	1.00	geomagnetism	http://sweetontology.net/phenhelio/geomagnetism
+f6e19e2e-555a-4d40-9833-c7513d92c813	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+f6e19e2e-555a-4d40-9833-c7513d92c813	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+78778362-5d08-4cd7-9131-159cad561e54	saltation	1.00	saltation	http://sweetontology.net/phengeolgeomorphology/saltation
+a83052ef-9b98-4cb3-9bed-b0c9059812e5	loess	1.00	loess	http://sweetontology.net/matrsediment/loess
+a08cce11-9407-4b1f-b13e-0df87da03612	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+22ba30ec-a4e2-4547-bad7-4d5f9917625d	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+7a67a5af-42be-4aa7-8cb1-e1fc0de074cc	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+ca9d9064-91c8-4c49-b388-e5f7290a3234	isthmus	1.00	isthmus	http://sweetontology.net/realmlandcoastal/isthmus
+fd29bf77-df38-4b80-8148-8184fa41d843	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+fd29bf77-df38-4b80-8148-8184fa41d843	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+8b232049-ce98-4a34-8f00-2366335508e4	accretion	1.00	accretion	http://sweetontology.net/phensolid/accretion
+6a11e5e5-e6a3-42dd-b793-141ce99932e1	deposition	1.00	deposition	http://sweetontology.net/phenfluidtransport/deposition
+6a11e5e5-e6a3-42dd-b793-141ce99932e1	deposition	1.00	deposition	http://sweetontology.net/procstatechange/deposition
+872459ca-da1e-448f-9bf4-383b628f4609	saltation	1.00	saltation	http://sweetontology.net/phengeolgeomorphology/saltation
+2cca0a13-3c6f-4617-aca9-bff7f8142c52	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+b3657e71-acd1-4be4-9c70-a54e074a40a4	subsidence	1.00	subsidence	http://sweetontology.net/phengeolgeomorphology/subsidence
+b3657e71-acd1-4be4-9c70-a54e074a40a4	subsidence	1.00	subsidence	http://sweetontology.net/phensolid/subsidence
+6c061296-2c92-4aa4-b9d1-6ecf0efde876	bar	1.00	bar	http://sweetontology.net/realmlandcoastal/bar
+e25ce36c-eacd-447a-9d73-ccc8a7e3a328	canyon	1.00	canyon	http://sweetontology.net/realmlandfluvial/canyon
+cbd9ee43-24f8-45ab-a39b-2ff34be81c51	confluence	1.00	confluence	http://sweetontology.net/propdiffusivity/confluence
+d71f94cb-e773-487a-a8ff-9c5f11c1dbc4	flood plain	1.00	flood plain	http://sweetontology.net/realmlandfluvial/floodplain
+74caea9b-6023-438b-af3d-bb9d948036f1	island	1.00	island	http://sweetontology.net/realmlandcoastal/island
+588d868d-05a4-4dac-9fb3-770b54ce39e5	lacustrine plain	1.00	lacustrine plain	http://sweetontology.net/realmlandfluvial/lacustrineplain
+88adcca6-2bc8-443a-9f25-c9aded577615	marsh	1.00	marsh	http://sweetontology.net/realmhydrobody/marsh
+5f292d99-b14a-4f18-bbe0-8025d04cae50	pond	1.00	pond	http://sweetontology.net/realmhydrobody/pond
+bb6b3b76-c496-464b-bd20-1b22296aae15	river	1.00	river	http://sweetontology.net/realmhydrobody/river
+b498a5cb-f77d-4485-8174-81dec28cee0e	spring	1.00	spring	http://sweetontology.net/realmhydrobody/spring
+b498a5cb-f77d-4485-8174-81dec28cee0e	spring	1.00	spring	http://sweetontology.net/reprtimeseason/spring
+1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd	stream	1.00	stream	http://sweetontology.net/realmhydrobody/stream
+4811065d-7aed-45e0-ac31-6417123be10e	swamp	1.00	swamp	http://sweetontology.net/realmhydrobody/swamp
+87b01c3a-f64f-4764-8cb8-c40ebcd5a989	valley	1.00	valley	http://sweetontology.net/realmlandfluvial/valley
+efacd4f6-59ea-4019-8265-8cc81ecc99c0	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+efacd4f6-59ea-4019-8265-8cc81ecc99c0	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+9eedd20e-fce3-4fb2-9871-c0a327565ad9	attrition	1.00	attrition	http://sweetontology.net/phenoceancoastal/attrition
+e89704aa-91a0-4888-bb33-a9073eff7119	entrainment	1.00	entrainment	http://sweetontology.net/phenmixing/entrainment
+54e5d072-5a2c-471b-bca0-7e4ca32a2001	landslide	1.00	landslide	http://sweetontology.net/phengeolgeomorphology/landslide
+93596daf-d2d3-4bb8-9626-9db100c402de	saltation	1.00	saltation	http://sweetontology.net/phengeolgeomorphology/saltation
+984e15c6-7eac-45b8-b098-ad82eab6be6e	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+6f47d087-21dc-41bc-955e-6eb2db8890cd	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+99db4dca-4d07-48fd-8ba3-393532d04aa6	ablation	1.00	ablation	http://sweetontology.net/phensolid/ablation
+8f57f4b0-5177-4362-81e8-ced75d37d1aa	abrasion	1.00	abrasion	http://sweetontology.net/phengeolgeomorphology/abrasion
+8f57f4b0-5177-4362-81e8-ced75d37d1aa	abrasion	1.00	abrasion	http://sweetontology.net/procphysical/abrasion
+1dc7ed2f-2834-4044-8caa-117ce12389af	entrainment	1.00	entrainment	http://sweetontology.net/phenmixing/entrainment
+c25fef4a-f346-4831-8015-7853886c4fc7	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+d8f33f0a-137c-49ac-aebf-f8a8b0540a09	sedimentation	1.00	sedimentation	http://sweetontology.net/phengeolgeomorphology/sedimentation
+580ef100-0fb8-456c-a9ca-565d11392a26	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+9902dc89-61fb-4a1e-becf-c8138122d2c4	caco3	1.00	caco3	http://sweetontology.net/matrorganiccompound/caco3
+07f6c977-077b-47f2-962c-00dadcd9f555	porosity	1.00	porosity	http://sweetontology.net/propfraction/porosity
+60dc0787-9e7e-4e0d-8023-d916da5d0836	weathering	1.00	weathering	http://sweetontology.net/phengeolgeomorphology/weathering
+5d9d1d85-b402-4f84-ab5c-03a49fc68c25	caldera	1.00	caldera	http://sweetontology.net/realmlandvolcanic/caldera
+7c394040-91f1-4438-a50a-3118254f5989	cinder cone	1.00	cinder cone	http://sweetontology.net/matrrockigneous/cindercone
+ea580c65-2f66-4745-bbb6-dde61279ecfa	geyser	1.00	geyser	http://sweetontology.net/realmlandvolcanic/geyser
+dc18db4d-2184-453e-ba0a-86c83a9bede0	lava plain	1.00	lava plain	http://sweetontology.net/realmlandvolcanic/lavaplain
+0baf564f-f942-4aeb-9b75-30b838f28f3f	plateau	1.00	plateau	http://sweetontology.net/realmlandorographic/plateau
+ca091be1-4762-49ec-859b-a1a2fcb8e038	ridge	1.00	ridge	http://sweetontology.net/phenfluiddynamics/ridge
+ca091be1-4762-49ec-859b-a1a2fcb8e038	ridge	1.00	ridge	http://sweetontology.net/realmlandorographic/ridge
+ca091be1-4762-49ec-859b-a1a2fcb8e038	ridge	1.00	ridge	http://sweetontology.net/reprspacegeometry/ridge
+0bd4d492-4911-4a6a-afaa-34899a80294b	rift valley	1.00	rift valley	http://sweetontology.net/realmlandtectonic/riftvalley
+cefe2205-809c-4386-915e-a8737ae8e68e	volcano	1.00	volcano	http://sweetontology.net/realmlandvolcanic/volcano
+44dd98d0-a0d0-46b2-bb98-ed887ce7fa60	subduction	1.00	subduction	http://sweetontology.net/phengeoltectonic/subduction
+4bc109b5-6788-4f64-8238-745bab3910dd	tectonic uplift	1.00	tectonic uplift	http://sweetontology.net/phengeoltectonic/tectonicuplift
+99d567bb-7767-4ea4-a135-a611eac6a669	temperature gradient	1.00	temperature gradient	http://sweetontology.net/proptemperaturegradient/temperaturegradient
+69af3046-08e0-4c24-981d-803c0412ce58	gravity	1.00	gravity	http://sweetontology.net/procphysical/gravity
+ec950d11-30a8-44c3-b1f3-8e93b131211f	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+c5bc5153-d8ed-455b-9a05-aebb1026e2fb	color	1.00	color	http://sweetontology.net/propordinal/color
+26ea8426-2996-4b93-aff2-f3b9cd2f8a7a	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+03939ec7-9310-4440-b761-c8a6b32f1f43	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+a4596f71-207c-4037-b3a1-7ab0cd12daec	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+60e242ac-0f08-4574-bf92-b5e6536603cb	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+23da8344-174b-4931-b460-9fcfaf824ec9	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+746a7f6e-8923-47a1-9e95-9103a1231fc4	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+7ca1ab0a-2aa1-438c-b4c0-93dd8db37bb1	color	1.00	color	http://sweetontology.net/propordinal/color
+8443b43e-9512-4389-bc89-11c7510144f6	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+bd075d4b-1112-4290-920d-cf15280d54b8	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+e1e3f623-5a18-46a8-b8a8-22c082b643ad	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+19791e07-39bf-4635-b695-a819e38e20ca	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+92b21b46-90e1-4ea6-a5be-e2ce663a028d	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+37edb662-820e-410f-a45c-7a419bce0c8b	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+a2a5a2e1-6ac8-4bd4-9fe6-00f043bc148b	color	1.00	color	http://sweetontology.net/propordinal/color
+ebc1d1d7-98b7-4448-a6b0-80b15de99259	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+b727b561-f738-436d-bb96-137b455bb54a	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+af12ef6b-836b-40bf-959b-ec2d82c87389	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+f9385327-31fe-49a6-b3d6-073d6897ff4a	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+3ff1adcf-563f-47b3-902e-0231051dc8e7	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+f433284b-5def-465b-a532-62f0961294d0	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+ee3df8b7-0b0b-40ed-b9fa-cc3205d95669	color	1.00	color	http://sweetontology.net/propordinal/color
+953aecfe-a93d-4994-906f-5a1f8c4baa76	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+f8740a28-ec13-4ce8-8541-2ecae035b297	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+93aee4f9-2bcc-4208-b538-0c92f1ac1f42	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+94bc302a-d9ce-4f8f-982b-08a35772e5e9	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+0cbc201c-f58a-44a2-9515-f23eefc9be03	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+d9add64c-1764-4ddb-b088-71c77084a2f5	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+f54cb873-f20a-4476-835e-fd968c9b1937	color	1.00	color	http://sweetontology.net/propordinal/color
+a2c042a4-2658-48c1-a511-7a5dbff2b63d	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+83aff0db-35fd-45f9-b409-692b17941f79	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+651a6368-251e-45f6-8496-1f798de85db5	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+547c2bee-40ce-4b23-8338-5fa7c6ad8a8d	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+a1d083b5-3233-4053-a479-4eb7d347c34b	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+5a8bc1e7-a74d-4acc-9ac2-8fea047068a8	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+a40aafdc-dcc0-43f0-bc57-3a567631fa3b	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+d8bea85a-4578-410f-b58a-4927b8963aef	color	1.00	color	http://sweetontology.net/propordinal/color
+1545d45e-a4e6-43bd-a3ae-8d3a0a25b41e	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+307f8625-b4cf-4856-9d62-b200e94429a2	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+1c44d356-308d-4f92-8fe4-201edff3a02e	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+f2057998-1d06-4e58-9177-447942355d66	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+3feb3e65-5a44-46db-ba7b-ceb695e4fb50	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+6a22f994-b311-4042-b517-35612ccf2bb6	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+bac88c42-fd8d-4970-878d-441977f00ffc	color	1.00	color	http://sweetontology.net/propordinal/color
+70cebb8f-f944-4fe7-be08-1ed86d50eb7c	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+a8f6fca6-7a5e-49f7-9b32-813aaf42d0db	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+2e806852-5790-484f-9aee-a7cfc6683ec0	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+9911bf57-9d52-4fb3-a915-9e522e9845d5	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+07d5a2e4-47ef-4bee-81a7-42ef2eb7a77c	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+8b726747-6eba-4ce6-bfc6-ee84616a1862	coal	1.00	coal	http://sweetontology.net/matrnaturalresource/coal
+b5ae8710-8c7e-48ab-bf0f-2f18b2598a5a	cleavage	1.00	cleavage	http://sweetontology.net/phensolid/cleavage
+e0c40575-4033-4e91-9874-3cd83ce80bc1	color	1.00	color	http://sweetontology.net/propordinal/color
+99d75da3-aa22-4d29-9a56-7e0413665031	hardness	1.00	hardness	http://sweetontology.net/propmass/hardness
+3e705ebc-c58f-460d-b5e7-1da05ee45cc1	luminescence	1.00	luminescence	http://sweetontology.net/procchemical/luminescence
+1fca9e52-07fa-424b-b75a-ef1003e77b56	luster	1.00	luster	http://sweetontology.net/propordinal/luster
+73e9349c-08db-4ca5-87f8-bbe785c25629	reflection	1.00	reflection	http://sweetontology.net/procwave/reflection
+54a4a67a-b1ed-429b-876b-a595164a807c	stability	1.00	stability	http://sweetontology.net/statesystem/stability
+3ef98fe3-3471-414b-8b8c-e88d43c6aeaf	neotectonics	1.00	neotectonics	http://sweetontology.net/humanknowledgedomain/neotectonics
+5e7a091a-894f-423f-a431-ab52cf205311	isostatic rebound	1.00	isostatic rebound	http://sweetontology.net/phengeoltectonic/isostaticrebound
+5d7f7568-bfc3-4c11-b446-c4f6488c8ae9	strain	1.00	strain	http://sweetontology.net/phensolid/strain
+efe175a0-100b-404b-a702-2e179bee034a	stratigraphic sequence	1.00	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+29dbe37e-22e6-4d02-844f-60359fbbc130	stress	1.00	stress	http://sweetontology.net/phensystem/stress
+29dbe37e-22e6-4d02-844f-60359fbbc130	stress	1.00	stress	http://sweetontology.net/proppressure/stress
+71e9bc66-6f8c-41ec-8b22-2fe390223639	plate tectonics	1.00	plate tectonics	http://sweetontology.net/humanknowledgedomain/platetectonics
+1faaede0-2cd6-4447-b28b-0a28d9e2d067	volcanic activity	1.00	volcanic activity	http://sweetontology.net/phengeolvolcano/volcanicactivity
+1e17c8d3-81d0-473c-8f24-d2a4ea52b6b9	tectonics	1.00	tectonics	http://sweetontology.net/humanknowledgedomain/tectonics
+2b9ad978-d986-4d63-b477-0f5efc8ace72	solid earth	1.00	solid earth	http://sweetontology.net/realmgeol/solidearth
+0a81d67a-102b-4611-a38c-dbfdd7ba4e7d	gamma ray	1.00	gamma ray	http://sweetontology.net/matrparticle/gammaray
+73629546-592e-41ed-bfde-feb4c94415fb	brightness temperature	1.00	brightness temperature	http://sweetontology.net/proptemperature/brightnesstemperature
+68c2baba-b9b9-41d4-89bf-07488728bc4f	thermal infrared	1.00	thermal infrared	http://sweetontology.net/statespectralband/thermalinfrared
+6182be8b-d006-4327-994d-6f27c7e4d9a9	lidar	1.00	lidar	http://sweetontology.net/matrinstrument/lidar
+570397b4-3b45-4e12-85c3-ef26779a2c96	antenna temperature	1.00	antenna temperature	http://sweetontology.net/proptemperature/antennatemperature
+d8525750-2ca4-4b1f-a717-08fda61fd547	brightness temperature	1.00	brightness temperature	http://sweetontology.net/proptemperature/brightnesstemperature
+66700628-2b62-4466-999e-faeb15ca4da5	microwave	1.00	microwave	http://sweetontology.net/statespectralband/microwave
+5d6377ee-def2-4457-b780-6bcb202d7e3e	doppler velocity	1.00	doppler velocity	http://sweetontology.net/propspeed/dopplervelocity
+829e91f4-f351-4012-bb0a-208302fb11c2	radial velocity	1.00	radial velocity	http://sweetontology.net/propspeed/radialvelocity
+11e14ac8-e9f3-4737-b83d-98668ad975ed	sigma naught	1.00	sigma naught	http://sweetontology.net/reprspacecoordinate/sigmanaught
+d3b7c3c0-e644-4f01-94da-dfebe854c0d1	radar	1.00	radar	http://sweetontology.net/matrinstrument/radar
+d7ef7608-01f5-4e95-9fd9-7dc2aa36113d	radio wave	1.00	radio wave	http://sweetontology.net/statespectralband/radiowave
+7a0ab5f9-2317-4217-a081-8d4a46eb5334	geolocation	1.00	geolocation	http://sweetontology.net/reprdataservicegeospatial/geolocation
+733092b1-4256-433a-85fe-78c912f21f80	total pressure	1.00	total pressure	http://sweetontology.net/proppressure/totalpressure
+3ef1cc7b-2864-46e3-b399-fcc1fbcf0d9b	total temperature	1.00	total temperature	http://sweetontology.net/proptemperature/totaltemperature
+5d290bd8-049b-4002-86c8-8acba563d0e1	solar wind	1.00	solar wind	http://sweetontology.net/phenhelio/solarwind
+1ef327e1-6139-49ff-87c3-f959ea75a511	corona	1.00	corona	http://sweetontology.net/realmastrostar/corona
+1ef327e1-6139-49ff-87c3-f959ea75a511	corona	1.00	corona	http://sweetontology.net/realmgeolconstituent/corona
+2e83362e-d8f8-4bca-83fd-bae360ebe94b	solar activity	1.00	solar activity	http://sweetontology.net/phenstar/solaractivity
+0b2ca4d1-a225-4243-90eb-1b482fb094a5	total electron content	1.00	total electron content	http://sweetontology.net/propcount/totalelectroncontent
+ff79c018-8d61-4811-91bc-c4ddea29677c	firn	1.00	firn	http://sweetontology.net/matrwater/firn
+84fff9f2-4dad-4ff8-9d10-cacd6a1864fb	glacier terminus	1.00	glacier terminus	http://sweetontology.net/realmcryo/glacierterminus
+ecbe9f17-6012-4e39-a707-713973b7d167	water table	1.00	water table	http://sweetontology.net/realmhydro/watertable
+0976b778-91be-40e7-9ed7-ebbf214bb818	discharge	1.00	discharge	http://sweetontology.net/phenhydro/discharge
+d2d4ee50-99ed-4ee7-b957-22271a60c031	dispersion	1.00	dispersion	http://sweetontology.net/procwave/dispersion
+6a2107ab-38ab-42dc-beb0-8ba5f65e8022	drainage	1.00	drainage	http://sweetontology.net/phenhydro/drainage
+638a22af-4e97-450e-a278-b81338443230	infiltration	1.00	infiltration	http://sweetontology.net/phenhydro/infiltration
+d64094ae-774b-4435-8f2e-a54d114e5555	percolation	1.00	percolation	http://sweetontology.net/phenhydro/percolation
+2ddd003d-c19f-4336-9837-316cce5efe0b	albedo	1.00	albedo	http://sweetontology.net/propfraction/albedo
+2565d1be-7468-4969-9367-e21719c006a1	avalanche	1.00	avalanche	http://sweetontology.net/phengeolgeomorphology/avalanche
+67648fff-9415-4a36-a1f6-ef028dd1d9b5	depth hoar	1.00	depth hoar	http://sweetontology.net/matrwater/depthhoar
+f3743f11-06bb-4337-969a-d5616b96038f	frost	1.00	frost	http://sweetontology.net/matrwater/frost
+6a7eed90-327a-4609-b952-c9617445a1d1	permafrost	1.00	permafrost	http://sweetontology.net/realmsoil/permafrost
+6a08f79f-a621-4f8c-b5d5-e1335f9cbcec	snow cover	1.00	snow cover	http://sweetontology.net/phenhydro/snowcover
+6a08f79f-a621-4f8c-b5d5-e1335f9cbcec	snow cover	1.00	snow cover	http://sweetontology.net/propspacethickness/snowcover
+1f10a307-df15-43e2-b3fa-5fe6df619f98	snow facies	1.00	snow facies	http://sweetontology.net/matrwater/snowfacies
+47d8d3db-9aea-49f3-8edd-5216736a85ef	snow water equivalent	1.00	snow water equivalent	http://sweetontology.net/propspacethickness/snowwaterequivalent
+06741402-492e-4cda-926b-8897b15450e7	whiteout	1.00	whiteout	http://sweetontology.net/phenatmo/whiteout
+06741402-492e-4cda-926b-8897b15450e7	whiteout	1.00	whiteout	http://sweetontology.net/phenatmosky/whiteout
+609f7831-5145-4a5c-bd58-d0b426058740	base flow	1.00	base flow	http://sweetontology.net/phenhydro/baseflow
+269c7277-fa8f-4c1c-bd8b-ab772c1df4e5	drainage	1.00	drainage	http://sweetontology.net/phenhydro/drainage
+960037c5-57b1-4cdf-84be-4542beee7d5a	hydropattern	1.00	hydropattern	http://sweetontology.net/propindex/hydropattern
+d4e8b5c5-9203-4982-82bc-2611b517ffdb	hydroperiod	1.00	hydroperiod	http://sweetontology.net/proptime/hydroperiod
+c6c0c5dd-c0ca-4670-bbaa-c22d39e73570	inundation	1.00	inundation	http://sweetontology.net/phensystem/inundation
+f6a54329-486b-4d5f-b105-c639cec42351	runoff	1.00	runoff	http://sweetontology.net/phenhydro/runoff
+5cb5d5b9-0c0b-497f-a4ea-a8cece52d13d	stage height	1.00	stage height	http://sweetontology.net/propspacethickness/stageheight
+5debb283-51e4-435e-b2a2-e8e2a977220d	surface water	1.00	surface water	http://sweetontology.net/realmhydro/surfacewater
+62ee81e7-9f5a-4af5-a086-f4c402c7d19d	acid rain	1.00	acid rain	http://sweetontology.net/phenatmotransport/acidrain
+fa892a9e-523b-424e-bf02-1a8d1e618985	arsenic	1.00	arsenic	http://sweetontology.net/matrelement/arsenic
+e5a658d5-74db-4022-894f-edc8d297767a	calcium	1.00	calcium	http://sweetontology.net/matrelement/calcium
+9ab53717-17f1-4259-b425-0eed19c31884	chromium	1.00	chromium	http://sweetontology.net/matrelement/chromium
+78fb5691-136d-40f8-a834-6e6f4cd768ff	copper	1.00	copper	http://sweetontology.net/matrelement/copper
+0965eb7b-6bd3-48a3-aa2a-52d7e2dda8ad	iron	1.00	iron	http://sweetontology.net/matrelement/iron
+6fe420c1-2285-4031-babe-f0243c59a617	lead	1.00	lead	http://sweetontology.net/matrelement/lead
+6fe420c1-2285-4031-babe-f0243c59a617	lead	1.00	lead	http://sweetontology.net/realmcryo/lead
+38f99d8b-80af-439a-9d3f-1e72aef5d7c3	magnesium	1.00	magnesium	http://sweetontology.net/matrelement/magnesium
+9c90825c-a35f-4165-8248-e90ab869f8ec	organic matter	1.00	organic matter	http://sweetontology.net/realmsoil/organicmatter
+072721be-eb8b-4ac4-9354-251dbf74ade0	potassium	1.00	potassium	http://sweetontology.net/matrelement/potassium
+b2318fb3-788c-4f36-a1d1-36670d2da747	selenium	1.00	selenium	http://sweetontology.net/matrelement/selenium
+ab12b3d6-2cbf-4a5a-a410-1d23afe906d8	zinc	1.00	zinc	http://sweetontology.net/matrelement/zinc
+b632d0cc-d4b0-458e-a182-16bbd2a5ab05	dissolved oxygen	1.00	dissolved oxygen	http://sweetontology.net/matr/dissolvedoxygen
+bf03dba8-2881-44ac-abfc-ba3353f67a24	nitrogen	1.00	nitrogen	http://sweetontology.net/matrelement/nitrogen
+ee92daf8-d0da-4476-b389-0485114cbbe9	organic matter	1.00	organic matter	http://sweetontology.net/realmsoil/organicmatter
+7d82a1f7-aa6e-47c7-8eb3-78bfe2e4349b	total dissolved solids	1.00	total dissolved solids	http://sweetontology.net/propchemical/totaldissolvedsolids
+a74059fe-6b15-4b55-8ea5-4a65b66c7e11	alkalinity	1.00	alkalinity	http://sweetontology.net/propchemical/alkalinity
+d14389d9-54f5-41a0-b8e8-dc9d8f87e4e2	conductivity	1.00	conductivity	http://sweetontology.net/propconductivity/conductivity
+53d36c39-3cb1-44db-9746-feee86cbe9d7	eutrophication	1.00	eutrophication	http://sweetontology.net/phenenvirimpact/eutrophication
+e82c0632-5a3c-4da2-ba10-55c0fc222580	organic matter	1.00	organic matter	http://sweetontology.net/realmsoil/organicmatter
+dac96944-5a5e-4b2a-802d-74627bb93db9	potability	1.00	potability	http://sweetontology.net/statechemical/potability
+0eaf009f-f92b-48b5-8a71-9c44c80d03d4	turbidity	1.00	turbidity	http://sweetontology.net/propindex/turbidity
+14625f2a-4186-4377-a0d9-88998bb6b775	ph	1.00	ph	http://sweetontology.net/propchemical/ph
+4497eb1b-b64d-46ff-a18d-37d217430777	index of biotic integrity	1.00	index of biotic integrity	http://sweetontology.net/propindex/indexofbioticintegrity
+f082ad51-4ce4-4ffe-be50-6753c4f997ae	global positioning systems	0.98	global positioning system	http://sweetontology.net/matrinstrument/globalpositioningsystem
+1f3c543d-9ca9-4db4-b4a5-d3e2fd71e4a4	volatile organic compounds	0.98	volatile organic compound	http://sweetontology.net/matrorganiccompound/volatileorganiccompound
+079724fa-ff86-4195-aee0-51a4d6dd73bb	environmental assessments	0.98	environmental assessment	http://sweetontology.net/humanenvirassessment/environmentalassessment
+cdab2cca-6767-427e-b464-09fe26ec59db	chlorinated hydrocarbons	0.98	chlorinated hydrocarbon	http://sweetontology.net/matrorganiccompound/chlorinatedhydrocarbon
+f6b97280-74d0-4233-bd17-f9f3d9dd21c2	hydrochlorofluorocarbons	0.98	hydrochlorofluorocarbon	http://sweetontology.net/matrorganiccompound/hydrochlorofluorocarbon
+5f2ec7b9-3e8c-4d12-bba6-0f84c08729e0	extinction coefficients	0.98	extinction coefficient	http://sweetontology.net/propspacedistance/extinctioncoefficient
+103f1165-1008-4caa-bf77-5259ae1a7a36	straitigraphic sequence	0.98	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+da436e9b-60e5-4a5f-a50a-08794d62bca8	extratropical cyclones	0.98	extratropical cyclone	http://sweetontology.net/phenatmopressure/extratropicalcyclone
+9361962c-cfc7-4428-8843-b3502718c382	terrestrial ecosystems	0.98	terrestrial ecosystem	http://sweetontology.net/realmbiolbiome/terrestrialecosystem
+6d486f25-7477-4da9-96ae-0091596ed4d2	coronal mass ejections	0.98	coronal mass ejection	http://sweetontology.net/phenstar/coronalmassejection
+9015e65f-bbae-4855-a4b6-1bfa601752bd	biogeochemical cycles	0.98	biogeochemical cycle	http://sweetontology.net/phencyclematerial/biogeochemicalcycle
+ad73e951-fb5b-4a0b-b034-9469a8bfccaa	freshwater ecosystems	0.98	freshwater ecosystem	http://sweetontology.net/realmbiolbiome/freshwaterecosystem
+3f4cfc81-7745-43d9-b313-f68cdf72359b	environmental impacts	0.98	environmental impact	http://sweetontology.net/phenenvirimpact/environmentalimpact
+3d352f0f-f69f-44c4-b345-aa9230fbd6ca	hydrogenous sediments	0.98	hydrogenous sediment	http://sweetontology.net/matrsediment/hydrogenoussediment
+31cf96eb-7fcd-490d-9e10-7f17dc12e1e3	terrigenous sediments	0.98	terrigenous sediment	http://sweetontology.net/matrsediment/terrigenoussediment
+f1e6caa5-2c97-407d-a0db-7bf01794d8e3	biogeochemical cycles	0.98	biogeochemical cycle	http://sweetontology.net/phencyclematerial/biogeochemicalcycle
+5dee7d0e-e13e-4974-9750-79d5cd886c7a	isostatic adjustments	0.98	isostatic adjustment	http://sweetontology.net/phengeoltectonic/isostaticadjustment
+02836842-3d46-46e0-a816-bd2f407f3fb3	seismic surface waves	0.98	seismic surface wave	http://sweetontology.net/phengeolseismicity/seismicsurfacewave
+a5e36040-cc5e-46d1-aeee-f49902e943b2	dewpoint depression	0.97	dew point depression	http://sweetontology.net/proptemperature/dewpointdepression
+edfe982b-a5bb-4001-83fa-f46f90f69b79	subtropical cyclones	0.97	subtropical cyclone	http://sweetontology.net/phenatmopressure/subtropicalcyclone
+07f7ea8e-cf94-4421-923a-539e12dbeb95	industrial emissions	0.97	industrial emission	http://sweetontology.net/phenreaction/industrialemission
+dffe5a35-09af-4413-bdd3-a5aedfeb49cc	saltwater intrusion	0.97	salt water intrusion	http://sweetontology.net/phenenvirimpact/saltwaterintrusion
+4a11a257-99c6-4f87-8884-2a2aa46a49fa	saltwater intrusion	0.97	salt water intrusion	http://sweetontology.net/phenenvirimpact/saltwaterintrusion
+e78ae4ce-807a-4417-ad6e-a458c6da6638	chlorofluorocarbons	0.97	chlorofluorocarbon	http://sweetontology.net/matrorganiccompound/chlorofluorocarbon
+a91a00f7-05ed-4633-9fac-1772a48b6342	continental margins	0.97	continental margin	http://sweetontology.net/realmgeolcontinental/continentalmargin
+ed5106fd-a73f-4203-87a3-9c9e7e85dcfc	hydrofluorocarbons	0.97	hydrofluorocarbon	http://sweetontology.net/matrorganiccompound/hydrofluorocarbon
+c6455081-132d-4661-bb5f-22edf2f90800	aquatic ecosystems	0.97	aquatic ecosystem	http://sweetontology.net/realmbiolbiome/aquaticecosystem
+23703b6b-ee15-4512-b5b2-f441547e2edf	climate indicators	0.97	climate indicator	http://sweetontology.net/propindex/climateindicator
+06c1281f-e306-4511-bdab-ed6c0694f0f9	volcanic eruptions	0.97	volcanic eruption	http://sweetontology.net/phengeolvolcano/volcaniceruption
+ccf07d90-b3a3-43d3-9249-a494bb48d1b6	longshore currents	0.97	longshore current	http://sweetontology.net/phenoceandynamics/longshorecurrent
+b677862b-7921-458f-a6db-0eb46469df33	hydrothermal vents	0.97	hydrothermal vent	http://sweetontology.net/realmoceanfloor/hydrothermalvent
+46172bbe-8bf0-49a0-848f-129c089aeb8e	tectonic landforms	0.97	tectonic landform	http://sweetontology.net/realmlandtectonic/tectoniclandform
+f66893ce-3ea6-4c52-bc27-bc322a41b748	seismic body waves	0.97	seismic body wave	http://sweetontology.net/phengeolseismicity/seismicbodywave
+72304037-ce59-451a-beeb-4258f3db296a	vertical profiles	0.97	vertical profile	http://sweetontology.net/reprmathfunction/verticalprofile
+b13a29a1-47a0-4d8b-a017-398b364dc202	topographic waves	0.97	topographic wave	http://sweetontology.net/phenwave/topographicwave
+d5e72d73-22f6-4f4c-b937-b71d84960a1e	lenticular clouds	0.97	lenticular cloud	http://sweetontology.net/phenatmocloud/lenticularcloud
+06180441-d4bb-4fed-b36a-9b3cb2cac0fe	tropical cyclones	0.97	tropical cyclone	http://sweetontology.net/phenatmopressure/tropicalcyclone
+f75f9011-903e-4757-9fcf-fefac2599b59	diurnal movements	0.97	diurnal movement	http://sweetontology.net/phenecology/diurnalmovement
+f6350232-b1c7-458c-bc43-bda357ebb6db	marine ecosystems	0.97	marine ecosystem	http://sweetontology.net/realmbiolbiome/marineecosystem
+c736e45d-63f2-428b-abae-48f79d007703	volcanic deposits	0.97	volcanic deposit	http://sweetontology.net/matrsediment/volcanicdeposit
+52325c6e-1084-43c1-83b2-278bbe0201c6	volcanic deposits	0.97	volcanic deposit	http://sweetontology.net/matrsediment/volcanicdeposit
+79b0b1d3-5279-4ce5-a387-6ecb4ee2a335	cultural features	0.97	cultural feature	http://sweetontology.net/matrfacility/culturalfeature
+00fc45e0-400d-4024-a82a-4d6544735f64	tropical cyclones	0.97	tropical cyclone	http://sweetontology.net/phenatmopressure/tropicalcyclone
+ed75fb8f-cb96-448e-ada5-dc48fbd0ebb1	aeolian landforms	0.97	aeolian landform	http://sweetontology.net/realmlandaeolian/aeolianlandform
+0cff6e4b-e42a-4565-89ff-350adf41ed69	coastal landforms	0.97	coastal landform	http://sweetontology.net/realmlandcoastal/coastallandform
+bdc0bd86-a3a3-48fa-b1fb-4ca5d13d4dde	fluvial landforms	0.97	fluvial landform	http://sweetontology.net/realmlandfluvial/fluviallandform
+b895f4b5-5273-49ef-883f-b67d9f199505	glacial landforms	0.97	glacial landform	http://sweetontology.net/realmlandglacial/glaciallandform
+18ce5577-26e9-4b76-860b-1ba31cafa9d0	submarine canyons	0.97	submarine canyon	http://sweetontology.net/realmoceanfloor/submarinecanyon
+3dd99ea6-51bd-4b78-bf2e-d5aeca7f5bc8	topographic waves	0.97	topographic wave	http://sweetontology.net/phenwave/topographicwave
+2f4ccb5c-7b99-442c-9054-964070d95f7b	volcanic deposits	0.97	volcanic deposit	http://sweetontology.net/matrsediment/volcanicdeposit
+9761565c-2126-49cd-b4c4-cd3bcb5dbbde	volcanic deposits	0.97	volcanic deposit	http://sweetontology.net/matrsediment/volcanicdeposit
+26637389-f4f6-47a0-9c3d-17e93ab99dea	aeolian landforms	0.97	aeolian landform	http://sweetontology.net/realmlandaeolian/aeolianlandform
+c58320e6-3f1d-4c36-9bee-6bad73404c21	coastal landforms	0.97	coastal landform	http://sweetontology.net/realmlandcoastal/coastallandform
+cb5193ab-2d7a-4b35-b7ec-f16ce78ae270	fluvial landforms	0.97	fluvial landform	http://sweetontology.net/realmlandfluvial/fluviallandform
+3c78951a-0293-4fb0-baff-ec7372fe784d	glacial landforms	0.97	glacial landform	http://sweetontology.net/realmlandglacial/glaciallandform
+d220bbb1-410e-4b77-9663-78cb68c6b134	metamorphic rocks	0.97	metamorphic rock	http://sweetontology.net/matrrock/metamorphicrock
+85353d7b-05d8-4c32-a5b2-065f1f22f026	sedimentary rocks	0.97	sedimentary rock	http://sweetontology.net/matrrock/sedimentaryrock
+6520897f-c6b6-432e-b7d5-e99b33e6932e	mountain breezes	0.97	mountain breeze	http://sweetontology.net/phenatmowindmesoscale/mountainbreeze
+ab7eb13f-5fcb-4afa-8819-c37d36feeec1	coccolithophores	0.97	coccolithophore	http://sweetontology.net/matrmicrobiota/coccolithophore
+e88cc54b-7a4b-4680-b441-4d10a4534cd9	coccolithophores	0.97	coccolithophore	http://sweetontology.net/matrmicrobiota/coccolithophore
+fb93d937-c17c-45d0-a9e3-ca5c8a800ca8	human dimensions	0.97	human dimension	http://sweetontology.net/humanknowledgedomain/humandimension
+69ff701a-674e-4b63-bb93-6ebe6cd95281	suspended solids	0.97	suspended solid	http://sweetontology.net/matr/suspendedsolid
+bcf6975f-2a21-4a6c-9286-fb8f85d00901	suspended solids	0.97	suspended solid	http://sweetontology.net/matr/suspendedsolid
+ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c	marine sediments	0.97	marine sediment	http://sweetontology.net/matrsediment/marinesediment
+a3c25ed5-d3e4-4b86-bd9a-6f78d5d2bc07	dissolved solids	0.97	dissolved solid	http://sweetontology.net/matr/dissolvedsolid
+718fb499-8c55-4fa6-9a07-ac9155d4bc9d	suspended solids	0.97	suspended solid	http://sweetontology.net/matr/suspendedsolid
+9d8cb1dd-4b38-4b4e-8532-ab4eb72cd4ae	suspended solids	0.97	suspended solid	http://sweetontology.net/matr/suspendedsolid
+eaeb5cdd-365f-4368-8e20-6defe111b3b4	streamfunctions	0.97	streamfunction	http://sweetontology.net/propdiffusivity/streamfunction
+3dd9fd35-f1dd-4d25-b849-eeb7b64ab767	water resources	0.97	water resource	http://sweetontology.net/matrnaturalresource/waterresource
+e5563c99-0fb6-43a9-8e20-6b47b1144394	nitrogen oxides	0.97	nitrogen oxide	http://sweetontology.net/matrcompound/nitrogenoxide
+e82ebd1c-8241-4ca0-95a9-a6e1432519cd	nitrogen oxides	0.97	nitrogen oxide	http://sweetontology.net/matrcompound/nitrogenoxide
+d7d48399-62ac-4eca-9c09-14b9094a9444	katabatic winds	0.97	katabatic wind	http://sweetontology.net/phenatmowindmesoscale/katabaticwind
+b887d3e5-4280-43d2-a34e-0f63ac086b6a	teleconnections	0.97	teleconnection	http://sweetontology.net/phen/teleconnection
+ee3e296f-fdc0-4695-95af-dbe63f43b679	water resources	0.97	water resource	http://sweetontology.net/matrnaturalresource/waterresource
+128db882-0522-4a5e-ac69-81d05986a645	barrier islands	0.97	barrier island	http://sweetontology.net/realmlandcoastal/barrierisland
+590aa85e-bbce-40b2-8ffb-53d80a61c51a	karst landforms	0.97	karst landform	http://sweetontology.net/realmlandfluvial/karstlandform
+7e28f2e0-a641-4085-be07-366ed6e701f4	barrier islands	0.97	barrier island	http://sweetontology.net/realmlandcoastal/barrierisland
+6e3135e9-6be6-4995-a5df-022f6a0cf45b	barrier islands	0.97	barrier island	http://sweetontology.net/realmlandcoastal/barrierisland
+ac2d1035-1896-42c1-861b-042a917b6889	karst landforms	0.97	karst landform	http://sweetontology.net/realmlandfluvial/karstlandform
+e453077b-b6f3-44f0-9f3d-4408bf9a69e5	magnetic storms	0.97	magnetic storm	http://sweetontology.net/phenhelio/magneticstorm
+272700c5-d762-452b-8e9f-130e3a51efb5	drainage basins	0.97	drainage basin	http://sweetontology.net/realmlandfluvial/drainagebasin
+5f55961d-45b8-4330-8eee-0b9a9eb4f309	anabatic winds	0.96	anabatic wind	http://sweetontology.net/phenatmowindmesoscale/anabaticwind
+afeb9962-d3e8-4260-ab2b-e62e11099e31	coral deposits	0.96	coral deposit	http://sweetontology.net/matrnaturalresource/coraldeposit
+47d6c670-db83-4975-b684-1be787811ac8	coral deposits	0.96	coral deposit	http://sweetontology.net/matrnaturalresource/coraldeposit
+db692676-a2f6-4fd9-91b6-92ae4f9c04fd	communications	0.96	communication	http://sweetontology.net/matrequipment/communication
+c77819e9-f62f-48dc-b924-e7a73b4dcda9	land resources	0.96	land resource	http://sweetontology.net/matrnaturalresource/landresource
+58c12630-a889-44c1-a951-56bbbe9758c9	fracture zones	0.96	fracture zone	http://sweetontology.net/realmlandtectonic/fracturezone
+510c5f78-e19e-4ce4-b59a-8937aeb84631	ocean currents	0.96	ocean current	http://sweetontology.net/phenoceandynamics/oceancurrent
+54ab2e0e-8e36-48e8-b020-ea9a5b453373	tidal currents	0.96	tidal current	http://sweetontology.net/phenoceandynamics/tidalcurrent
+296b7bc4-c031-48ea-bb6d-99f7c971c953	coral deposits	0.96	coral deposit	http://sweetontology.net/matrnaturalresource/coraldeposit
+f7998303-d145-452d-bcff-770f62038909	isotope ratios	0.96	isotope ratio	http://sweetontology.net/propdimensionlessratio/isotoperatio
+c3090318-c845-4242-bf2f-ff1631b88831	sulfur oxides	0.96	sulfur oxide	http://sweetontology.net/matrcompound/sulfuroxide
+cc676fb2-cf17-413d-bb00-0b95d231f157	sulfur oxides	0.96	sulfur oxide	http://sweetontology.net/matrcompound/sulfuroxide
+615e826e-a5da-4e94-b7df-ad3515c06135	range changes	0.96	range change	http://sweetontology.net/phenenvirimpact/rangechange
+f5c63c23-f819-46e8-bc97-1e894424c00c	range changes	0.96	range change	http://sweetontology.net/phenenvirimpact/rangechange
+b1ce822a-139b-4e11-8bbe-453f19501c36	rock glaciers	0.96	rock glacier	http://sweetontology.net/realmlandglacial/rockglacier
+ee2af62b-9f76-440c-aa9b-77940468b8f4	rock glaciers	0.96	rock glacier	http://sweetontology.net/realmlandglacial/rockglacier
+fcbf8f96-ac53-41b6-9c98-a87425a4ec82	rock glaciers	0.96	rock glacier	http://sweetontology.net/realmlandglacial/rockglacier
+e9ed684e-5252-4091-a794-aaf6e5f249ed	radionuclides	0.96	radionuclide	http://sweetontology.net/matrisotope/radionuclide
+dc9fcd27-58ac-4705-a522-6475d59cfb81	gravity waves	0.96	gravity wave	http://sweetontology.net/phenwave/gravitywave
+2d98cbaf-8c82-46e6-9962-a5e63918fe66	rock glaciers	0.96	rock glacier	http://sweetontology.net/realmlandglacial/rockglacier
+e8d97ffd-2fd2-4989-88a7-9772fc9b7cd8	igneous rocks	0.96	igneous rock	http://sweetontology.net/matrrockigneous/igneousrock
+6f4e850f-84e4-466f-b5ad-2032ea2187ea	radioisotopes	0.96	radioisotope	http://sweetontology.net/matrisotope/radioisotope
+31fe9edf-ec85-446f-a476-4bd24ee59ae2	land breezes	0.96	land breeze	http://sweetontology.net/phenatmowindmesoscale/landbreeze
+c0656cbc-5d94-4945-bbfd-1c8eabb059b2	oscillations	0.96	oscillation	http://sweetontology.net/phensystem/oscillation
+8b3939b6-1c11-4a79-878e-0be1b231c528	heavy metals	0.96	heavy metal	http://sweetontology.net/matrelement/heavymetal
+f9fe1bc0-88c5-4c26-9b4c-a9867d027685	particulates	0.96	particulate	http://sweetontology.net/matraerosol/particulate
+d8494f01-bcec-4232-ad78-fbd92c242e62	hydroperoxy	0.96	hydroperoxyl	http://sweetontology.net/matrcompound/hydroperoxyl
+d9750f06-3784-4058-941f-40289c8d9d8b	foraminifers	0.96	foraminifer	http://sweetontology.net/matrmicrobiota/foraminifer
+9becd489-f8fb-4dbb-b920-6c8399100515	radiolarians	0.96	radiolarian	http://sweetontology.net/matrmicrobiota/radiolarian
+14c78811-5296-4095-9c44-26362914e798	macrofossils	0.96	macrofossil	http://sweetontology.net/matrrock/macrofossil
+0aa423e0-bc21-4d74-894d-a0dfcf17fae5	microfossils	0.96	microfossil	http://sweetontology.net/matrrock/microfossil
+11e12021-f63e-4081-ae78-1bb19fe7b4bf	macrofossils	0.96	macrofossil	http://sweetontology.net/matrrock/macrofossil
+6d00c961-de64-40ed-becd-3a95cae182e3	microfossils	0.96	microfossil	http://sweetontology.net/matrrock/microfossil
+49ee4fcc-a0ad-4638-aec9-90b4946d8922	heavy metals	0.96	heavy metal	http://sweetontology.net/matrelement/heavymetal
+f32afbca-dac6-41b1-a198-791c1fb57951	rift valleys	0.96	rift valley	http://sweetontology.net/realmlandtectonic/riftvalley
+6d8eb011-ffb5-4e18-ac59-2d8f84353734	hydrocarbons	0.96	hydrocarbon	http://sweetontology.net/matrorganiccompound/hydrocarbon
+03fbea0a-74b9-4c78-8752-a588cff27f17	wind-driven circulation	0.96	wind driven circulation	http://sweetontology.net/phenoceandynamics/winddrivencirculation
+d412deec-d4ef-4c97-ac1c-f92ddb6964c6	macrofossils	0.96	macrofossil	http://sweetontology.net/matrrock/macrofossil
+98e15316-0055-4392-8825-c38f447d6582	microfossils	0.96	microfossil	http://sweetontology.net/matrrock/microfossil
+f986b716-d26c-4c98-8166-b415229186ff	macrofossils	0.96	macrofossil	http://sweetontology.net/matrrock/macrofossil
+6e872413-f416-43dd-a960-942ef892ae59	microfossils	0.96	microfossil	http://sweetontology.net/matrrock/microfossil
+a654a922-8b69-46f2-be40-d4d830ce999c	gas hydrates	0.96	gas hydrate	http://sweetontology.net/matrorganiccompound/gashydrate
+5f8a9188-d588-4782-a34b-07fa68380c41	plasma waves	0.96	plasma wave	http://sweetontology.net/phenwave/plasmawave
+734f8f27-6976-4b67-8794-c7fc79d6161e	ground water	0.96	groundwater	http://sweetontology.net/matrwater/groundwater
+f2d6aa01-5070-4147-bae1-4b2cad2c3987	trace metals	0.96	trace metal	http://sweetontology.net/matrelement/tracemetal
+42c6d91b-afef-4638-95c5-0d130828b2e7	contaminants	0.96	contaminant	http://sweetontology.net/staterolebiological/contaminant
+0ba2ccb3-332c-4ee6-a9c9-50dce5a6c0cc	hydrocarbons	0.96	hydrocarbon	http://sweetontology.net/matrorganiccompound/hydrocarbon
+344cbd30-a2e4-437e-9fc9-5e6b1c484bac	hydrocarbons	0.96	hydrocarbon	http://sweetontology.net/matrorganiccompound/hydrocarbon
+1488b98d-6497-48b9-88db-6ee82a2e3ed3	local winds	0.95	local wind	http://sweetontology.net/phenatmowind/localwind
+72c180e6-b3f3-4f9a-8d04-23f0b10735af	dust devils	0.95	dust devil	http://sweetontology.net/phenatmowind/dustdevil
+9cb8f1a4-5d2b-40d1-a7c3-c608bbe20a0b	sea breezes	0.95	sea breeze	http://sweetontology.net/phenatmowindmesoscale/seabreeze
+b73a2e6a-7a8b-443e-98f4-5a77f3a9691c	microbursts	0.95	microburst	http://sweetontology.net/phenatmowind/microburst
+a779ee72-d21e-4106-9efa-93e970bc287f	earthquakes	0.95	earthquake	http://sweetontology.net/phengeolseismicity/earthquake
+65475fcc-b696-4b02-a812-f12364046c4c	solar winds	0.95	solar wind	http://sweetontology.net/phenhelio/solarwind
+18a8197e-3a3f-408c-9c51-e9fe89dd6b45	fertilizers	0.95	fertilizer	http://sweetontology.net/matrbiomass/fertilizer
+cac27b59-7810-4132-87b4-53108663584e	ice pellets	0.95	ice pellet	http://sweetontology.net/phenatmoprecipitation/icepellet
+6a16461a-49b9-4887-802f-2320c6dc4dd2	snow grains	0.95	snow grain	http://sweetontology.net/matrwater/snowgrain
+a2ea1792-c011-4c7c-95c7-3bd648b1b57b	hail storms	0.95	hail storm	http://sweetontology.net/phenatmoprecipitation/hailstorm
+c40071d2-6478-4edf-80bb-95c3886533b9	wind storms	0.95	wind storm	http://sweetontology.net/phenatmowind/windstorm
+70c0b882-3d34-4e2d-90bf-339ade328ee0	acorn worms	0.95	acorn worm	http://sweetontology.net/matranimal/acornworm
+f2044dcf-40da-4fcc-97ab-914343d885a5	crustaceans	0.95	crustacean	http://sweetontology.net/matranimal/crustacean
+70892c25-4206-4673-9504-2876927d19a3	echinoderms	0.95	echinoderm	http://sweetontology.net/matranimal/echinoderm
+05763c43-c6ed-4071-b868-2ea6c1335c12	slime molds	0.95	slime mold	http://sweetontology.net/matrmicrobiota/slimemold
+2095acb5-14af-40fe-af22-e6af2e3528b5	flagellates	0.95	flagellate	http://sweetontology.net/matrmicrobiota/flagellate
+98b35c6b-5d40-41d0-b29f-a6b159c03b78	slime molds	0.95	slime mold	http://sweetontology.net/matrmicrobiota/slimemold
+bf0ddf9c-39ba-4b2d-91ac-63021d644276	macrophytes	0.95	macrophyte	http://sweetontology.net/matrplant/macrophyte
+e4abd82b-b17a-4f16-be79-0093f2a09f7d	urban areas	0.95	urban area	http://sweetontology.net/humanjurisdiction/urbanarea
+b3406120-9faa-4c00-874e-ce8878ae129f	earthquakes	0.95	earthquake	http://sweetontology.net/phengeolseismicity/earthquake
+c6244bfb-300f-4818-bf45-cf1a15e7e073	coral reefs	0.95	coral reef	http://sweetontology.net/realmbiolbiome/coralreef
+bffac466-83aa-4060-a378-6d2d6e49f2a1	till plains	0.95	till plain	http://sweetontology.net/realmlandglacial/tillplain
+ad497e7a-48fa-45e1-90a5-b052508bdb30	coral reefs	0.95	coral reef	http://sweetontology.net/realmbiolbiome/coralreef
+9bb0de49-1812-400c-a73b-d2686dd9066a	island arcs	0.95	island arc	http://sweetontology.net/realmlandcoastal/islandarc
+5daa972e-b47c-4050-97f1-1e628401fb97	wave length	0.95	wavelength	http://sweetontology.net/propspacedistance/wavelength
+346cade5-801a-4afc-9652-48d02905bc4f	ocean winds	0.95	ocean wind	http://sweetontology.net/phenatmowindmesoscale/oceanwind
+dff4d4af-e1e0-4991-884b-a1c088a802b2	coral reefs	0.95	coral reef	http://sweetontology.net/realmbiolbiome/coralreef
+2bea72da-2cf3-403c-adb9-9d963eb71536	till plains	0.95	till plain	http://sweetontology.net/realmlandglacial/tillplain
+56373f39-7c27-4a77-bb52-c4defee751f8	mineraloids	0.95	mineraloid	http://sweetontology.net/matrmineral/mineraloid
+601d36fc-8171-475c-a1c5-84802aecb77e	earthquakes	0.95	earthquake	http://sweetontology.net/phengeolseismicity/earthquake
+e06822d8-b640-4d75-ac37-33ab3cc5e765	cosmic rays	0.95	cosmic ray	http://sweetontology.net/matrparticle/cosmicray
+31c913e1-9692-45b5-bce5-cca46fa1874d	carcinogens	0.95	carcinogen	http://sweetontology.net/staterolebiological/carcinogen
+846d2db9-41cd-4ae8-b4ff-a34a9efb7428	phosphorous	0.95	phosphorus	http://sweetontology.net/matrelement/phosphorus
+d64a9627-3cf8-41d3-aaf7-8c2c46fb4a13	non-metallic minerals	0.95	nonmetallic mineral	http://sweetontology.net/matrmineral/nonmetallicmineral
+a8f6e91f-7875-4597-8ab8-64f4b14e8b49	landslides	0.95	landslide	http://sweetontology.net/phengeolgeomorphology/landslide
+59a203f9-f818-42a6-8d00-4301385cafc3	pesticides	0.95	pesticide	http://sweetontology.net/staterolebiological/pesticide
+d44d3115-91d1-4655-9e6e-babfe39e1632	peroxyacyl nitrate	0.95	peroxyacetyl nitrate	http://sweetontology.net/matrorganiccompound/peroxyacetylnitrate
+5ce75010-ec8a-4af7-9e34-3e49ef2fe10c	ice storms	0.95	ice storm	http://sweetontology.net/phenatmoprecipitation/icestorm
+582efbf1-ae9c-47f4-8155-c445f3816dd8	centipedes	0.95	centipede	http://sweetontology.net/matranimal/centipede
+d6db51cf-d2d0-4203-94c8-c884579e0cb0	millipedes	0.95	millipede	http://sweetontology.net/matranimal/millipede
+bb87baf5-3844-4a56-865f-ea5ed420db06	arthropods	0.95	arthropod	http://sweetontology.net/matranimal/arthropod
+2c1cf609-c70d-4811-8514-3ca45a8bb380	roundworms	0.95	roundworm	http://sweetontology.net/matranimal/roundworm
+a27837ae-62f7-4931-9da1-0bf63f4755fc	amphibians	0.95	amphibian	http://sweetontology.net/matranimal/amphibian
+32ffe87f-c0f0-4398-9a6a-755d7f87a5ff	sporozoans	0.95	sporozoan	http://sweetontology.net/matrmicrobiota/sporozoan
+3c8b236c-de02-491b-a506-91ecdc324a1c	rangeland	0.95	rangelands	http://sweetontology.net/realmbiolbiome/rangelands
+142ea0c1-b77f-44da-8c64-ac7ee13fd5f6	grasslands	0.95	grassland	http://sweetontology.net/realmbiolbiome/grassland
+f1a25060-330c-4f84-9633-ed59ae8c64bf	ecosystems	0.95	ecosystem	http://sweetontology.net/realmbiolbiome/ecosystem
+0e06e528-e796-4b7c-9878-dbcb061d878d	tree rings	0.95	tree ring	http://sweetontology.net/matrplant/treering
+36bdce45-37df-4475-9eed-73469a594edb	landslides	0.95	landslide	http://sweetontology.net/phengeolgeomorphology/landslide
+6444fc67-8cad-41c0-9ded-e93f604ba8b0	tree rings	0.95	tree ring	http://sweetontology.net/matrplant/treering
+10b1872b-4a48-4360-a449-388e8988bca9	ice sheets	0.95	ice sheet	http://sweetontology.net/realmcryo/icesheet
+82c3689a-6bbf-496f-b118-b6ab46a9d2c7	oil spills	0.95	oil spill	http://sweetontology.net/phenenvirimpact/oilspill
+f81d3752-d97c-4caf-9a79-5709ee693158	landslides	0.95	landslide	http://sweetontology.net/phengeolgeomorphology/landslide
+6314f68a-1f00-4e6d-9f06-b3e2ce4348e8	hurricanes	0.95	hurricane	http://sweetontology.net/phenatmoprecipitation/hurricane
+ea4aefeb-64cd-4408-83d8-8e0a672739b9	landslides	0.95	landslide	http://sweetontology.net/phengeolgeomorphology/landslide
+4e5cf935-cf17-4947-bd1f-6816a855953a	shorelines	0.95	shoreline	http://sweetontology.net/realmlandcoastal/shoreline
+c09cb9dc-2916-40f0-9f2f-4bbb39d2e7c9	landslides	0.95	landslide	http://sweetontology.net/phengeolgeomorphology/landslide
+1d3b4eb7-9931-44bf-8457-26847051b7a8	shorelines	0.95	shoreline	http://sweetontology.net/realmlandcoastal/shoreline
+84510f18-a4e6-434c-a54c-44cc995e1af2	tree rings	0.95	tree ring	http://sweetontology.net/matrplant/treering
+57e6b119-567b-44d0-9d93-278ed5c21c47	shorelines	0.95	shoreline	http://sweetontology.net/realmlandcoastal/shoreline
+96be1efc-d5e2-423d-8ade-00b3d454244d	meteorites	0.95	meteorite	http://sweetontology.net/matrrock/meteorite
+9613f08d-da11-4ed0-989e-c0c830870044	radar cross-section	0.95	radar cross section	http://sweetontology.net/propspacemultidimensional/radarcrosssection
+b2800856-f1e3-41aa-bdc4-75e9cd626d3f	ice sheets	0.95	ice sheet	http://sweetontology.net/realmcryo/icesheet
+bc1c6d8c-2e47-4a9f-aeb4-16b02bff4f19	pesticides	0.95	pesticide	http://sweetontology.net/staterolebiological/pesticide
+b7a45c57-b652-469a-a3f2-8d38555bf478	spectral irradiance	0.94	spectral radiance	http://sweetontology.net/propenergyflux/spectralradiance
+855dc9f5-ccbf-4972-8828-41e11f2aca7a	wildfires	0.94	wildfire	http://sweetontology.net/phenreaction/wildfire
+2a60df4a-a0d7-4e4b-b02a-372a083f0170	emissions	0.94	emission	http://sweetontology.net/phenreaction/emission
+2a60df4a-a0d7-4e4b-b02a-372a083f0170	emissions	0.94	emission	http://sweetontology.net/procwave/emission
+3d4f9f5a-912b-4dc1-b1c5-cd0fd9bbd3d3	blizzards	0.94	blizzard	http://sweetontology.net/phenatmoprecipitation/blizzard
+973bd2bd-c201-4e8c-8c86-d2e849298310	arachnids	0.94	arachnid	http://sweetontology.net/matranimal/arachnid
+14fa5360-320c-4d54-9bf6-9871a4b308d7	mushrooms	0.94	mushroom	http://sweetontology.net/matrplant/mushroom
+e36c5faa-c772-4bb0-aeca-b361e160ce9d	seagrass	0.94	sea grass	http://sweetontology.net/realmbiolbiome/seagrass
+4a55497b-8e07-431a-9af9-fece001f1dd7	food-web dynamics	0.94	food web dynamics	http://sweetontology.net/phenecology/foodwebdynamics
+2c74f390-9d82-4903-98e0-bddf0d3247fb	cropland	0.94	croplands	http://sweetontology.net/realmbiolbiome/croplands
+b70ef20c-7215-4a39-9479-dbff7c2fdca9	peatlands	0.94	peatland	http://sweetontology.net/realmhydrobody/peatland
+f3b5489d-6723-40bf-bd55-68a0f2fc1874	peatlands	0.94	peatland	http://sweetontology.net/realmhydrobody/peatland
+9bcb805c-718e-42c3-913d-174bdf06d4c1	nutrients	0.94	nutrient	http://sweetontology.net/staterolebiological/nutrient
+4733ef2c-e512-451b-8079-78ff7278e35c	ice floes	0.94	ice floe	http://sweetontology.net/realmcryo/icefloe
+f1f84fc8-d242-4f97-bb7d-77b68631273e	boreholes	0.94	borehole	http://sweetontology.net/matrequipment/borehole
+4fe601b0-314f-4f63-8ec1-3b96cc7263b8	paleosols	0.94	paleosol	http://sweetontology.net/realmsoil/paleosol
+0960827a-ecdb-40a0-babc-fbd6df27bb53	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+8f8c1808-ac5f-43e5-8397-dbb3d171144c	boreholes	0.94	borehole	http://sweetontology.net/matrequipment/borehole
+b3764016-0b5d-48fb-be3e-4f1082cf13e7	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+3b4ea1db-bb93-4eb8-ac08-4880a3a5e6d2	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+af0d756e-784e-4747-97d0-3425baf5d09b	ice floes	0.94	ice floe	http://sweetontology.net/realmcryo/icefloe
+d7742082-5461-4610-9ced-e0ec3bb64697	buildings	0.94	building	http://sweetontology.net/matrfacility/building
+ee49d315-1fe5-42ce-a5f8-232450dfa408	pipelines	0.94	pipeline	http://sweetontology.net/matrequipment/pipeline
+ee49d315-1fe5-42ce-a5f8-232450dfa408	pipelines	0.94	pipeline	http://sweetontology.net/reprsciprovenance/pipeline
+868b87a1-d8c2-49b3-8bbd-9cbbed115271	wildfires	0.94	wildfire	http://sweetontology.net/phenreaction/wildfire
+26558c08-beca-4ef0-9ea3-b000504ece60	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+8b7f66ea-d481-4641-9dbf-da90ca3ad9c9	mountains	0.94	mountain	http://sweetontology.net/realmlandorographic/mountain
+99b4792a-9ea3-4756-a4dc-b1b30c946b54	tectonic processes	0.94	tectonic process	http://sweetontology.net/phengeoltectonic/tectonicprocess
+83520258-413c-4842-93c0-58a23dc58638	seamounts	0.94	seamount	http://sweetontology.net/realmoceanfloor/seamount
+04c4a85f-91ce-4d64-9e19-b3e0897ff187	mangroves	0.94	mangrove	http://sweetontology.net/matrplant/mangrove
+8dd7c9f0-51d0-4037-b1d0-a2517c1770ad	nutrients	0.94	nutrient	http://sweetontology.net/staterolebiological/nutrient
+aa15804c-5f7f-40cc-b949-aa3e4418fc27	ice floes	0.94	ice floe	http://sweetontology.net/realmcryo/icefloe
+5a63fa7f-2971-4874-a920-394df07d218e	boreholes	0.94	borehole	http://sweetontology.net/matrequipment/borehole
+b54e01eb-02d9-413a-baf1-40a6e59d9eae	paleosols	0.94	paleosol	http://sweetontology.net/realmsoil/paleosol
+858d3f93-f2eb-4d2a-87c5-68018f206a47	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+e001c431-c204-419e-af64-cc8978132abf	boreholes	0.94	borehole	http://sweetontology.net/matrequipment/borehole
+d324729f-cc0d-4943-8d1a-d38335120c00	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+5498572c-aaed-4c08-8aad-8b297057e9c9	geodetics	0.94	geodetic	http://sweetontology.net/repr/geodetic
+c34ea556-10bd-4665-9f22-68b5d05c9aea	mountains	0.94	mountain	http://sweetontology.net/realmlandorographic/mountain
+f0bd7eeb-9004-4e40-a649-f6010d8a4303	tectonic processes	0.94	tectonic process	http://sweetontology.net/phengeoltectonic/tectonicprocess
+f4573e47-3cce-49ec-98d3-b5b3bb51371e	temperature gradient rate	0.94	temperature gradient range	http://sweetontology.net/proptemperaturegradient/temperaturegradientrange
+6600ace1-fc1e-4b5a-9f82-0afa19acf037	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+1459a39c-4781-4481-8bd9-510762865efd	nutrients	0.94	nutrient	http://sweetontology.net/staterolebiological/nutrient
+6d2511f8-4503-4237-93a9-34a3b369fe00	sediments	0.94	sediment	http://sweetontology.net/matrsediment/sediment
+b409a30b-0e3f-4592-bec9-7d371797b4a9	glacial processes	0.94	glacial process	http://sweetontology.net/phencryo/glacialprocess
+d7b62912-5970-46b1-be45-6a603c9a6979	glacial processes	0.94	glacial process	http://sweetontology.net/phencryo/glacialprocess
+6ee1f87a-dc7a-48f7-9b0f-9c529a5645a5	tsunamis	0.93	tsunami	http://sweetontology.net/phenoceandynamics/tsunami
+2e5a401b-1507-4f57-82b8-36557c13b154	aerosols	0.93	aerosol	http://sweetontology.net/matraerosol/aerosol
+228c14d1-e9bf-4c25-a67b-92c99bc2a8b7	methanol	0.93	ethanol	http://sweetontology.net/matrenergy/ethanol
+228c14d1-e9bf-4c25-a67b-92c99bc2a8b7	methanol	0.93	ethanol	http://sweetontology.net/matrorganiccompound/ethanol
+f8e65155-27c1-483e-a9b8-85399897c3ae	nitrogen dioxide	0.93	nitrogen oxide	http://sweetontology.net/matrcompound/nitrogenoxide
+12a896f3-993d-49f6-aafc-17378ffa3998	droughts	0.93	drought	http://sweetontology.net/phenplanetclimate/drought
+a6212424-1146-4a79-a14c-8ce88543b08b	monsoons	0.93	monsoon	http://sweetontology.net/phenatmoprecipitation/monsoon
+d85c386f-e4f7-4e1c-a16e-34dbb12bb2be	mollusks	0.93	mollusk	http://sweetontology.net/matranimal/mollusk
+5d3725b6-743b-4dda-bb54-b64f201ec4d1	reptiles	0.93	reptile	http://sweetontology.net/matranimal/reptile
+b26769a1-f023-4ab1-bc21-78ef2a5fd185	conifers	0.93	conifer	http://sweetontology.net/matrplant/conifer
+6f2a1cfb-13f4-444f-a6e6-2d8b29797253	ciliates	0.93	ciliate	http://sweetontology.net/matrmicrobiota/ciliate
+6a2a2417-1a9c-4767-bffd-6b99f9747bab	protists	0.93	protist	http://sweetontology.net/matrmicrobiota/protist
+b72c49a1-8276-4753-8c88-894bc7bbf60d	wetlands	0.93	wetland	http://sweetontology.net/realmhydrobody/wetland
+771b2919-ab55-4c71-8561-b4fb365da53f	mudflat	0.93	mud flat	http://sweetontology.net/realmlandcoastal/mudflat
+86987ad2-21d2-496b-9119-350b3fb17455	mudflat	0.93	mud flat	http://sweetontology.net/realmlandcoastal/mudflat
+f8d55ee4-1efb-4d83-b07f-1029ab0fa9e1	savannas	0.93	savanna	http://sweetontology.net/realmbiolbiome/savanna
+7da95c01-4b39-437e-a8d4-fd572e43f693	wetlands	0.93	wetland	http://sweetontology.net/realmhydrobody/wetland
+3e801e91-897e-4528-8f4c-4ec527ad33cc	pigments	0.93	pigment	http://sweetontology.net/propordinal/pigment
+a0358b3e-0926-4b17-8b32-c1b15a73cba5	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+7557eddd-db2a-4f39-b1e2-91162f4fc92e	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+dc02e5fb-9ff3-483d-8c33-18db25a07eea	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+0cd7a96f-46e1-4d86-93d0-9cbb6fda61e3	cryosols	0.93	cryosol	http://sweetontology.net/realmsoil/cryosol
+68eed887-8008-4352-b420-949457ab59ab	glaciers	0.93	glacier	http://sweetontology.net/realmcryo/glacier
+4d95ccc8-3ef9-40df-85e7-db36cb815499	icebergs	0.93	iceberg	http://sweetontology.net/realmcryo/iceberg
+1efe6ac1-d375-44c3-b8ec-d0ff2987a881	icebergs	0.93	iceberg	http://sweetontology.net/realmcryo/iceberg
+f0d4b06b-c498-4760-bc92-877e28f3a098	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+70acf223-7895-4cbe-aca6-815babb2b7ed	polynyas	0.93	polynya	http://sweetontology.net/realmocean/polynya
+115d340f-cb5e-4436-bfa4-04a740988bf7	droughts	0.93	drought	http://sweetontology.net/phenplanetclimate/drought
+0720043d-4d31-45ae-a37c-9ba5959bf97d	cyclones	0.93	cyclone	http://sweetontology.net/phenfluiddynamics/cyclone
+bd5c19e4-b25a-48b2-ad9d-4596a0ba67de	typhoons	0.93	typhoon	http://sweetontology.net/phenatmoprecipitation/typhoon
+768f266e-0807-49c6-a69e-c518de310331	tsunamis	0.93	tsunami	http://sweetontology.net/phenoceandynamics/tsunami
+1469f30b-6eb4-4186-b1ef-7dd25c34c592	cryosols	0.93	cryosol	http://sweetontology.net/realmsoil/cryosol
+dabc0fc5-acac-48df-b32e-02c9166e8385	yardangs	0.93	yardang	http://sweetontology.net/realmlandaeolian/yardang
+320e14a6-4882-4533-b1cf-55d49c8a6b37	tombolos	0.93	tombolo	http://sweetontology.net/realmlandcoastal/tombolo
+186a08ed-b6fc-4963-adb6-2c5113d133e5	v shaped valley	0.93	u shaped valley	http://sweetontology.net/realmlandglacial/ushapedvalley
+2575cfaf-1a09-48b6-acb9-fda23b6f4719	moraines	0.93	moraine	http://sweetontology.net/realmlandglacial/moraine
+b9cfc6af-a424-42b9-8e89-6b332262e841	inorganic matter	0.93	organic matter	http://sweetontology.net/realmsoil/organicmatter
+54054bc3-5faa-4b0d-b5dd-cf04595369b5	nitrogen dioxide	0.93	nitrogen oxide	http://sweetontology.net/matrcompound/nitrogenoxide
+ed925b43-db83-4cbb-8347-3dc0081bb8f4	pigments	0.93	pigment	http://sweetontology.net/propordinal/pigment
+7a79a3f3-1817-4c9f-8485-550a022b5a8d	tsunamis	0.93	tsunami	http://sweetontology.net/phenoceandynamics/tsunami
+1151dc7e-7441-4a21-95b6-1d03a1053f60	icebergs	0.93	iceberg	http://sweetontology.net/realmcryo/iceberg
+9d99408d-0d8b-4642-a2cb-edee8319fe1d	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+10a128a6-12d4-4bce-b25d-2ffc464182f4	polynyas	0.93	polynya	http://sweetontology.net/realmocean/polynya
+096f466a-a86a-42ac-93f7-05a799910817	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+61f57065-8f47-45c7-8319-f6115153a6ad	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+56589fec-7573-42df-b853-2754cdc9e1b7	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+441ce068-91f2-4412-8893-c0096d8f9079	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+3202dab6-144a-4bfb-9bda-9d07e5ee7ec2	electrical field	0.93	electric field	http://sweetontology.net/phenelecmag/electricfield
+59d1b0f7-ef02-4fa4-8d47-7eda39794713	yardangs	0.93	yardang	http://sweetontology.net/realmlandaeolian/yardang
+30f556c4-7531-4758-9e51-8adc6b2e0e8a	tombolos	0.93	tombolo	http://sweetontology.net/realmlandcoastal/tombolo
+4f590d94-110c-4762-9171-aba6d24af6a0	moraines	0.93	moraine	http://sweetontology.net/realmlandglacial/moraine
+da22144c-634d-4007-aba9-e636a9f2fa3f	elements	0.93	element	http://sweetontology.net/matrelement/element
+387a51ad-382f-4297-be72-fdd4bb0fe3f9	minerals	0.93	mineral	http://sweetontology.net/matrmineral/mineral
+429d42ef-9b58-4068-b389-0a9e60e55486	sunspots	0.93	sunspot	http://sweetontology.net/phenstar/sunspot
+4a426aab-4a95-4bf4-8449-19a72a251541	glaciers	0.93	glacier	http://sweetontology.net/realmcryo/glacier
+f1c79b5f-fcc2-42e7-818b-7534f79081ff	icebergs	0.93	iceberg	http://sweetontology.net/realmcryo/iceberg
+a957363b-2f2c-4169-a656-c2f24933eb72	aquifers	0.93	aquifer	http://sweetontology.net/realmhydro/aquifer
+d138302a-03b3-4cf7-95db-ac98f863c04f	wetlands	0.93	wetland	http://sweetontology.net/realmhydrobody/wetland
+e848dbd1-b70a-4820-a630-98bd642ae357	inorganic matter	0.93	organic matter	http://sweetontology.net/realmsoil/organicmatter
+4d5f7ae1-3368-468b-825b-e72c1df24508	isotopes	0.93	isotope	http://sweetontology.net/matrisotope/isotope
+9bdac7db-be34-4eed-91bc-28f6628ed044	inorganic matter	0.93	organic matter	http://sweetontology.net/realmsoil/organicmatter
+6cf87a79-e8b0-4ff1-9039-f3ad1f1f17a7	inorganic matter	0.93	organic matter	http://sweetontology.net/realmsoil/organicmatter
+3d64c047-c4fb-4981-bc91-d5dbc22337de	sun-earth interactions	0.93	sun earth interaction	http://sweetontology.net/phenhelio/sunearthinteraction
+1203f04d-cd90-4f46-b2c1-998a3c182250	straitraphic sequence	0.93	stratigraphic sequence	http://sweetontology.net/phengeol/stratigraphicsequence
+57383ac5-614c-4b84-9202-e137b000422b	sun-earth interactions	0.93	sun earth interaction	http://sweetontology.net/phenhelio/sunearthinteraction
+38219b66-2acd-4f77-a0fc-8241172c9001	dissolved gases	0.93	dissolved gas	http://sweetontology.net/matr/dissolvedgas
+d73ed320-cd5b-4994-a26a-dac5a2fc394f	nitrification	0.93	denitrification	http://sweetontology.net/phenbiol/denitrification
+ac933400-3c8c-4db4-ac68-5e8ed06c8336	dissolved gases	0.93	dissolved gas	http://sweetontology.net/matr/dissolvedgas
+d6379bf5-88dd-4ec0-9b15-441db5b10b59	web coverage service	0.92	web coverage server	http://sweetontology.net/reprdataservicegeospatial/webcoverageserver
+be7f6de0-f51e-42bc-9a66-fff30d809a67	reforestation	0.92	deforestation	http://sweetontology.net/phenenvirimpact/deforestation
+7c892333-f4c4-4f81-b825-d6a86e107e9f	methane	0.92	ethane	http://sweetontology.net/matrorganiccompound/ethane
+f5717312-c3ca-4492-a166-9f17c6d9b273	sulfur dioxide	0.92	sulfur oxide	http://sweetontology.net/matrcompound/sulfuroxide
+44e49605-e860-41d0-8ef8-cb74419f831d	insects	0.92	insect	http://sweetontology.net/matranimal/insect
+bfbfd84c-6bf0-412f-9e75-1bad5241c339	sponges	0.92	sponge	http://sweetontology.net/matranimal/sponge
+f5161094-3593-4bc1-85ea-c8c2ecab1d9a	mammals	0.92	mammal	http://sweetontology.net/matranimal/mammal
+e85b6d64-a230-4c1d-99a5-c62be8af18c7	lichens	0.92	lichen	http://sweetontology.net/matrplant/lichen
+a14cfe48-9554-4e7c-9a2b-bf72834eafba	diatoms	0.92	diatom	http://sweetontology.net/matrmicrobiota/diatom
+fdb04105-e8ba-4a83-9c35-ed3c931ccc9f	diatoms	0.92	diatom	http://sweetontology.net/matrmicrobiota/diatom
+76589134-8d93-4e45-8476-f04497181d14	alpine/tundra	0.92	alpine tundra	http://sweetontology.net/realmcryo/alpinetundra
+5d5426f6-e7ce-41c1-a3d3-b93adf748f0f	deserts	0.92	desert	http://sweetontology.net/realmlandaeolian/desert
+46e4aaa4-349c-4049-a910-035391360010	forests	0.92	forest	http://sweetontology.net/realmbiolbiome/forest
+46e4aaa4-349c-4049-a910-035391360010	forests	0.92	forest	http://sweetontology.net/reprmathgraph/forest
+fa3c6df8-a1e1-41d5-9de1-49b92e1ea455	islands	0.92	island	http://sweetontology.net/realmlandcoastal/island
+fe6b37b9-f95a-491e-a58e-22aa66be9a9d	reforestation	0.92	deforestation	http://sweetontology.net/phenenvirimpact/deforestation
+0948a59e-cc72-4e5d-b97d-4ea0335b0906	methane	0.92	ethane	http://sweetontology.net/matrorganiccompound/ethane
+9a4715a7-1847-4fef-8116-494b36420fb7	deforestation	0.92	reforestation	http://sweetontology.net/humanenvircontrol/reforestation
+1376f8a1-84f2-4797-a978-69ec520e2423	ripples	0.92	ripple	http://sweetontology.net/realmlandfluvial/ripple
+d9483208-ff59-4293-9867-3f4895e58c9f	lagoons	0.92	lagoon	http://sweetontology.net/realmhydrobody/lagoon
+1a0e7a60-9c22-40c5-8424-55119b4db743	caldra	0.92	caldera	http://sweetontology.net/realmlandvolcanic/caldera
+dcb100c9-5b43-422a-a429-25cae9dbb170	reforestation	0.92	deforestation	http://sweetontology.net/phenenvirimpact/deforestation
+c733c179-c12a-47e9-8e9a-817a5212446f	lagoons	0.92	lagoon	http://sweetontology.net/realmhydrobody/lagoon
+2b4963ba-1a7a-419d-97ef-eacaa14688e0	seiches	0.92	seiche	http://sweetontology.net/phenwave/seiche
+daab3b2a-1fe7-4ad9-8340-1a7cfa54a2ac	methane	0.92	ethane	http://sweetontology.net/matrorganiccompound/ethane
+cae41424-161f-4378-a1a4-62cd76c61143	ripples	0.92	ripple	http://sweetontology.net/realmlandfluvial/ripple
+081d131a-6bef-47dc-adb3-f96da9123f93	lagoons	0.92	lagoon	http://sweetontology.net/realmhydrobody/lagoon
+a4596f71-207c-4037-b3a1-7ab0cd12daec	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+a4596f71-207c-4037-b3a1-7ab0cd12daec	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+e1e3f623-5a18-46a8-b8a8-22c082b643ad	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+e1e3f623-5a18-46a8-b8a8-22c082b643ad	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+af12ef6b-836b-40bf-959b-ec2d82c87389	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+af12ef6b-836b-40bf-959b-ec2d82c87389	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+93aee4f9-2bcc-4208-b538-0c92f1ac1f42	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+93aee4f9-2bcc-4208-b538-0c92f1ac1f42	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+651a6368-251e-45f6-8496-1f798de85db5	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+651a6368-251e-45f6-8496-1f798de85db5	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+5a8bc1e7-a74d-4acc-9ac2-8fea047068a8	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+5a8bc1e7-a74d-4acc-9ac2-8fea047068a8	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+1c44d356-308d-4f92-8fe4-201edff3a02e	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+1c44d356-308d-4f92-8fe4-201edff3a02e	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+2e806852-5790-484f-9aee-a7cfc6683ec0	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+2e806852-5790-484f-9aee-a7cfc6683ec0	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+1fca9e52-07fa-424b-b75a-ef1003e77b56	luster	0.92	cluster	http://sweetontology.net/reprdataserviceanalysis/cluster
+1fca9e52-07fa-424b-b75a-ef1003e77b56	luster	0.92	cluster	http://sweetontology.net/reprspacegeometry/cluster
+792cf9f0-6d24-4de8-902c-b74e42c74fd3	aurorae	0.92	aurora	http://sweetontology.net/phenatmosky/aurora
+792cf9f0-6d24-4de8-902c-b74e42c74fd3	aurorae	0.92	aurora	http://sweetontology.net/phenhelio/aurora
+d2e9b10f-3b62-42fb-b906-7b4779170a4a	web feature service	0.92	web feature server	http://sweetontology.net/reprdataservicegeospatial/webfeatureserver
+ac50c468-df2f-429c-8394-9d63efcc6f9d	precipitation rate	0.92	precipitation range	http://sweetontology.net/propspacethickness/precipitationrange
+6045993e-a656-40c1-853c-9db1fbb49171	potential evapotranspiration	0.92	half potential evapotranspiration	http://sweetontology.net/propspacethickness/halfpotentialevapotranspiration
+560eac7e-d172-4a31-a659-a3e99d5f61ac	decomposition	0.92	composition	http://sweetontology.net/propchemical/composition
+5e3999ec-d864-43fd-8d84-bd23630c405f	chlorophyll	0.92	chlorophyll a	http://sweetontology.net/matrorganiccompound/chlorophylla
+273973f1-ccc5-4ae8-9872-17e249023c53	macroclimate	0.92	microclimate	http://sweetontology.net/phenplanetclimate/microclimate
+7989eae1-8ea3-4039-af0c-9130de145449	chlorophyll	0.92	chlorophyll a	http://sweetontology.net/matrorganiccompound/chlorophylla
+37669b8c-1940-4330-b4e9-ee49ad3673b5	chlorophyll	0.92	chlorophyll a	http://sweetontology.net/matrorganiccompound/chlorophylla
+7b60ab41-92e7-4550-821b-0ab7ebd3d7c8	decomposition	0.92	composition	http://sweetontology.net/propchemical/composition
+6a5a2ccf-3ba6-4519-bc9b-7617ef3b9087	corona holes	0.92	coronal hole	http://sweetontology.net/phenstar/coronalhole
+2297a00a-80f5-466e-b28e-b9ca42562d3f	normalized difference vegetation index (ndvi)	0.92	normalized difference vegetation index	http://sweetontology.net/propdifference/normalizeddifferencevegetationindex
+7b43eda3-899a-4afa-89be-2dbe527834c2	normalized difference vegetation index (ndvi)	0.92	normalized difference vegetation index	http://sweetontology.net/propdifference/normalizeddifferencevegetationindex
+27d63fe6-9970-46fd-9b22-a58e52efc57b	hypochlorous acid	0.91	hydrochlorous acid	http://sweetontology.net/matrcompound/hydrochlorousacid
+939c0a66-0340-425b-999a-44a09046ec93	noctilucent clouds	0.91	noctilueent cloud	http://sweetontology.net/phenatmocloud/noctilueentcloud
+08fd82a1-4370-46a2-82ea-94c0f91498a7	atmospheric pressure	0.91	atmospheric low pressure	http://sweetontology.net/phenatmopressure/atmosphericlowpressure
+40d4ba89-0e3d-4c6c-adef-87e08737d4db	reprojection	0.91	projection	http://sweetontology.net/relamath/projection
+40d4ba89-0e3d-4c6c-adef-87e08737d4db	reprojection	0.91	projection	http://sweetontology.net/statespaceconfiguration/projection
+e757b032-bfa4-4976-b98a-838f61a86ea8	floods	0.91	flood	http://sweetontology.net/phenhydro/flood
+e1f20631-b5b9-438c-b5c2-b1fa0fce100a	models	0.91	model	http://sweetontology.net/reprscimodel/model
+33e3c858-25ee-4a5e-a938-93779679ed06	halons	0.91	halon	http://sweetontology.net/matrorganiccompound/halon
+289ca013-0526-49e0-8b87-51513702e8f4	heat index	0.91	health index	http://sweetontology.net/propindex/healthindex
+162e2243-3266-4999-b352-d8a1a9dc82ac	clouds	0.91	cloud	http://sweetontology.net/phenatmocloud/cloud
+0b4081fa-5233-4484-bc82-706976defa0e	plants	0.91	plant	http://sweetontology.net/matrplant/plant
+bc320625-d9ba-41f5-9336-57e86fd878f3	marine	0.91	marin	http://sweetontology.net/phenatmowindmesoscale/marin
+6cec3b57-1a7f-404d-afde-4de045ef0dd2	swamps	0.91	swamp	http://sweetontology.net/realmhydrobody/swamp
+8ef6f360-10d0-4dc5-8fcb-c532eb23fe5d	marine	0.91	marin	http://sweetontology.net/phenatmowindmesoscale/marin
+8c05bcf2-d13b-44fd-b1a2-5ec797b2f851	swamps	0.91	swamp	http://sweetontology.net/realmhydrobody/swamp
+c7b5c02c-724d-4a19-b824-98180f3900c9	vegetation	0.91	revegetation	http://sweetontology.net/humanenvircontrol/revegetation
+bd1834b0-4f8f-4616-b330-6205bff567c2	isotopic analysis	0.91	isotope analysis	http://sweetontology.net/reprscimethodology/isotopeanalysis
+79c7fd4c-9328-4a6f-82ed-bb012b570ecd	basins	0.91	basin	http://sweetontology.net/realmgeolbasin/basin
+79c7fd4c-9328-4a6f-82ed-bb012b570ecd	basins	0.91	basin	http://sweetontology.net/realmhydrobody/basin
+fd03d204-4391-4e98-8142-8b8efa235231	floods	0.91	flood	http://sweetontology.net/phenhydro/flood
+93647a7c-a881-4066-a696-c19053c7c30b	deltas	0.91	delta	http://sweetontology.net/realmlandcoastal/delta
+7299f45f-eafb-4ed9-ae12-5e01c97c1530	fjords	0.91	fjord	http://sweetontology.net/realmhydrobody/fjord
+49db8758-1282-45a0-ad3f-0f1e9d8abc44	inlets	0.91	inlet	http://sweetontology.net/realmhydrobody/inlet
+cae5bafd-10a7-4bcf-af1a-3e187ee5e955	shoals	0.91	shoal	http://sweetontology.net/realmlandcoastal/shoal
+1815faf3-2411-4d2a-a3d5-1e5b0c50782b	sounds	0.91	sound	http://sweetontology.net/phenwave/sound
+1815faf3-2411-4d2a-a3d5-1e5b0c50782b	sounds	0.91	sound	http://sweetontology.net/realmhydrobody/sound
+daa297ec-4397-4caa-b563-634a71f62b8a	deltas	0.91	delta	http://sweetontology.net/realmlandcoastal/delta
+b9b85df8-3b95-4baf-bd32-8bacd35dc9b5	gully	0.91	gulley	http://sweetontology.net/realmlandfluvial/gulley
+01a84bc1-a571-4d23-b57f-1b04fd9542a6	stream	0.91	steam	http://sweetontology.net/matrwater/steam
+d37d51e0-1bef-473a-9221-6713166762f9	aretes	0.91	arete	http://sweetontology.net/realmlandglacial/arete
+158a8764-a6e4-4d28-a1b9-b2ab91e09995	eskers	0.91	esker	http://sweetontology.net/realmlandglacial/esker
+666d9a2b-aaa8-4789-a9d9-a6774e650fe4	fjords	0.91	fjord	http://sweetontology.net/realmhydrobody/fjord
+181fb5a4-125b-445d-b65f-adf9a919c800	faults	0.91	fault	http://sweetontology.net/phensolid/fault
+97298feb-6991-4d68-8337-177460e436ad	ridge	0.91	ridged	http://sweetontology.net/statespaceconfiguration/ridged
+f9f0f92b-7901-4dda-8d64-be4e845ce29b	deltas	0.91	delta	http://sweetontology.net/realmlandcoastal/delta
+a90899c8-fe50-48e0-b92c-bb64f6ae681c	fjords	0.91	fjord	http://sweetontology.net/realmhydrobody/fjord
+f43cd776-c568-4d09-997c-0a8ad1022e06	inlets	0.91	inlet	http://sweetontology.net/realmhydrobody/inlet
+4c2d2255-680d-47d6-adb2-179093593f8a	shoals	0.91	shoal	http://sweetontology.net/realmlandcoastal/shoal
+22b339b5-1af5-46e3-8191-d93729001eeb	fronts	0.91	front	http://sweetontology.net/phenatmofront/front
+4e4d3c18-cdd4-474a-a936-6e127ec526f7	swells	0.91	swell	http://sweetontology.net/phenoceancoastal/swell
+91697b7d-8f2b-4954-850e-61d5f61c867d	oceans	0.91	ocean	http://sweetontology.net/realm/ocean
+37f3fdb8-a82f-4bff-bda4-cca12a683d6f	microfossil	0.91	macrofossil	http://sweetontology.net/matrrock/macrofossil
+b37b1bdf-6392-4a80-891a-14f177ba2ca2	deltas	0.91	delta	http://sweetontology.net/realmlandcoastal/delta
+c9291bc7-784d-486a-95fa-f08fa1edcad9	fjords	0.91	fjord	http://sweetontology.net/realmhydrobody/fjord
+356a245d-418a-4560-9eb1-d12f8f155f66	inlets	0.91	inlet	http://sweetontology.net/realmhydrobody/inlet
+94b575b8-eac4-433d-aa74-d781b650f452	shoals	0.91	shoal	http://sweetontology.net/realmlandcoastal/shoal
+c5b85924-9e3f-4106-b389-1ab4486bd233	sounds	0.91	sound	http://sweetontology.net/phenwave/sound
+c5b85924-9e3f-4106-b389-1ab4486bd233	sounds	0.91	sound	http://sweetontology.net/realmhydrobody/sound
+ad535c83-3b93-4632-8aaa-7dfba8bb125a	deltas	0.91	delta	http://sweetontology.net/realmlandcoastal/delta
+2f8ad9b0-adb8-4022-8c95-bca68e7a87a5	gully	0.91	gulley	http://sweetontology.net/realmlandfluvial/gulley
+1d2d0777-b47e-45ee-ac85-2d7b9f6e4ffd	stream	0.91	steam	http://sweetontology.net/matrwater/steam
+8e73bff6-c2f9-46a6-963b-8ef09dd7f5f3	aretes	0.91	arete	http://sweetontology.net/realmlandglacial/arete
+5e012809-98cf-468f-bdf7-7cea8569d3ab	eskers	0.91	esker	http://sweetontology.net/realmlandglacial/esker
+6aed82cb-be90-4e58-ae33-14943ea555be	fjords	0.91	fjord	http://sweetontology.net/realmhydrobody/fjord
+6107d1c4-5aea-4bfa-861d-d77083a4476e	faults	0.91	fault	http://sweetontology.net/phensolid/fault
+ca091be1-4762-49ec-859b-a1a2fcb8e038	ridge	0.91	ridged	http://sweetontology.net/statespaceconfiguration/ridged
+7b76bca5-32ee-4285-8550-0de120b01a13	metals	0.91	metal	http://sweetontology.net/matrelement/metal
+5d7f7568-bfc3-4c11-b446-c4f6488c8ae9	strain	0.91	train	http://sweetontology.net/matrequipment/train
+5d7f7568-bfc3-4c11-b446-c4f6488c8ae9	strain	0.91	train	http://sweetontology.net/reprdataserviceanalysis/train
+b58fc6f1-2fb5-4e3a-9553-f041fe75960b	basins	0.91	basin	http://sweetontology.net/realmgeolbasin/basin
+b58fc6f1-2fb5-4e3a-9553-f041fe75960b	basins	0.91	basin	http://sweetontology.net/realmhydrobody/basin
+7fdc339e-017f-4e4b-89a3-12e441a40bad	floods	0.91	flood	http://sweetontology.net/phenhydro/flood
+fad79bec-0672-4c71-8910-174c8985a1b9	solids	0.91	solid	http://sweetontology.net/statephysical/solid
+cad91f82-7e2a-43b7-b272-2dc77e2791f4	solar energetic particle flux	0.91	solar energetic particle	http://sweetontology.net/matrparticle/solarenergeticparticle
+25fcdcb7-efd2-4d2f-ba57-92bbcc7ba69a	skin temperature	0.90	ion temperature	http://sweetontology.net/proptemperature/iontemperature
+ed49aea3-c1ce-4522-985b-1b1b2b2c7790	geomagnetic storm	0.90	magnetic storm	http://sweetontology.net/phenhelio/magneticstorm
+e5563c99-0fb6-43a9-8e20-6b47b1144394	nitrogen oxides	0.90	nitrogen dioxide	http://sweetontology.net/matrcompound/nitrogendioxide
+e82ebd1c-8241-4ca0-95a9-a6e1432519cd	nitrogen oxides	0.90	nitrogen dioxide	http://sweetontology.net/matrcompound/nitrogendioxide
+ca133c4d-9751-4b92-a1ec-013ef625ad7b	subtropical storm	0.90	tropical storm	http://sweetontology.net/phenatmoprecipitation/tropicalstorm
+73266dd6-217a-432f-9237-176d3e94b39b	environmental sustainability	0.90	environmental sustainability index	http://sweetontology.net/propindex/environmentalsustainabilityindex
+40d6a3e7-89dd-4399-8fa5-bbc7a0917b4e	skin temperature	0.90	ion temperature	http://sweetontology.net/proptemperature/iontemperature
+f345294c-36e6-4c76-b484-2204cc0bc3a2	mid-ocean ridges	0.90	mid ocean ridge	http://sweetontology.net/realmoceanfloor/midoceanridge
+204b482b-449b-42c9-a5bb-f6da42bee3a4	magnetic field	0.90	geomagnetic field	http://sweetontology.net/phenelecmag/geomagneticfield
+fdb4c687-916e-48ec-858e-6009cc763de3	v shapped valley	0.90	u shaped valley	http://sweetontology.net/realmlandglacial/ushapedvalley
+33d1810f-40c6-4b37-ac90-7435ef5fa507	geothermal energy	0.90	thermal energy	http://sweetontology.net/propenergy/thermalenergy
+4a42042b-7427-4cf2-9475-7d1788e3ac54	sink temperature	0.90	ion temperature	http://sweetontology.net/proptemperature/iontemperature
+061f7fd0-67af-42bf-bc9f-5a007c146f65	absorption	0.90	adsorption	http://sweetontology.net/procchemical/adsorption
+1ecb1e7c-50fc-4951-b610-5140475d87ed	carbon tetrachloride	0.90	carbon tetrafluoride	http://sweetontology.net/matrorganiccompound/carbontetrafluoride
+d2e93932-0231-4b23-af2f-217c6315a95e	absorption	0.90	adsorption	http://sweetontology.net/procchemical/adsorption
+cb628a66-a10b-4ef1-9261-7ce63a9439dc	jellyfishes	0.90	jellyfish	http://sweetontology.net/matranimal/jellyfish
+d3594523-ba0d-4275-b121-95039f905058	microalgae	0.90	macroalgae	http://sweetontology.net/matrplant/macroalgae
+f930dcf2-ddb4-4242-9079-9c8d5ceeaa35	endangered species	0.90	endangered species act	http://sweetontology.net/humanenvirstandards/endangeredspeciesact
+2de06b90-4abe-4c71-a537-978679bf8aea	pacific decadal oscillation (pdo)	0.90	pacific decadal oscillation	http://sweetontology.net/phencycle/pacificdecadaloscillation
+2f2f5764-d4e6-4bbb-bd6d-dda373018237	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+32f6083c-f6a2-40cf-8cf4-782b02b9df9e	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+ae368822-4979-4feb-967b-ee7764639646	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+eb31cb40-97cf-4445-8abd-d375391edf6f	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+3e822484-c94a-457b-a32f-376fcbd6fd35	topography	0.90	tomography	http://sweetontology.net/reprscimethodology/tomography
+e501d002-d11e-4569-8c0d-e40ae5b45f65	absorption	0.90	adsorption	http://sweetontology.net/procchemical/adsorption
+2b1f870b-c679-4b6d-b02e-3eb005f0648d	hydration	0.90	dehydration	http://sweetontology.net/procchemical/dehydration
+baf70c0f-fd59-4d4b-ae03-b664e0352ff7	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+2f5ceedb-afb6-47e6-8eac-8f220ef0b564	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+800606ea-9890-4475-af7b-100f529858d1	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+e60bfab8-01a8-4d0b-ae95-5d9014c71717	degradation	0.90	gradation	http://sweetontology.net/propordinal/gradation
+60e242ac-0f08-4574-bf92-b5e6536603cb	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+23da8344-174b-4931-b460-9fcfaf824ec9	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+19791e07-39bf-4635-b695-a819e38e20ca	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+92b21b46-90e1-4ea6-a5be-e2ce663a028d	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+f9385327-31fe-49a6-b3d6-073d6897ff4a	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+3ff1adcf-563f-47b3-902e-0231051dc8e7	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+94bc302a-d9ce-4f8f-982b-08a35772e5e9	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+0cbc201c-f58a-44a2-9515-f23eefc9be03	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+547c2bee-40ce-4b23-8338-5fa7c6ad8a8d	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+a1d083b5-3233-4053-a479-4eb7d347c34b	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+f2057998-1d06-4e58-9177-447942355d66	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+3feb3e65-5a44-46db-ba7b-ceb695e4fb50	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+9911bf57-9d52-4fb3-a915-9e522e9845d5	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+07d5a2e4-47ef-4bee-81a7-42ef2eb7a77c	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+73e9349c-08db-4ca5-87f8-bbe785c25629	reflection	0.90	deflection	http://sweetontology.net/procphysical/deflection
+54a4a67a-b1ed-429b-876b-a595164a807c	stability	0.90	instability	http://sweetontology.net/statesystem/instability
+f2130ca3-3587-4312-b6d4-138456b5ea78	water quality indices	0.90	water quality index	http://sweetontology.net/propindex/waterqualityindex
